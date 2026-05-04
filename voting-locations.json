@@ -304,20 +304,17 @@
       ]
     },
     "Calhoun": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Calhoun County Courthouse (Voter Registration Office)",
+          "31 Court St, Morgan, GA 39866"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the county courthouse in Morgan. Georgia law requires early voting to be available on the second and third Saturdays (May 2 and May 9, 2026) prior to the primary election.",
+      "source_url": "https://calhouncountyga.com/offices/",
+      "source_name": "Calhoun County Board of Elections"
     },
     "Camden": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1510,20 +1507,17 @@
       "notes": "Spout Springs Library and Murrayville Library locations open starting May 4. A ballot drop box is available at the Hall County Government Center (2875 Browns Bridge Rd, Gainesville, GA 30504) during early voting dates and hours."
     },
     "Hancock": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p (TBC)",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Hancock County Youth Center (Youth Opportunity Center)",
+          "12560 Augusta Hwy E, Sparta, GA 31087"
         ]
-      ]
+      ],
+      "notes": "Hancock County typically utilizes the Youth Center (also known as the Youth Opportunity Center or Skating Rink) as its primary early voting location. While the Board of Elections office is located at 9091 E. Broad St, official voting records and past election cycles (including the 2022 and 2024 cycles) identify the Youth Center as the designated advance voting site. Official Saturday voting is required by Georgia law on May 2 and May 9, 2026, typically following weekday hours. No Sunday voting was indicated.",
+      "source_url": "https://www.hancockcountyga.gov/board-of-elections",
+      "source_name": "Hancock County Board of Elections"
     },
     "Haralson": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1919,20 +1913,17 @@
       ]
     },
     "Macon": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8:00 AM – 5:00 PM · Sat May 2: 9:00 AM – 5:00 PM · Sat May 9: 9:00 AM – 5:00 PM",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Macon County Annex Building (Board of Elections Office)",
+          "100 Macon Street, Oglethorpe, GA 31068"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Board of Elections office in the Macon County Annex building. This is the primary and typically the only early voting location for the county. Dates and locations are based on the official county website and state primary schedule.",
+      "source_url": "https://www.maconcountyga.gov/board-of-elections-and-registration.cfm",
+      "source_name": "Macon County Board of Elections and Registration"
     },
     "Madison": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2364,20 +2355,17 @@
       ]
     },
     "Randolph": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & May 9: 8a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Randolph County Government Center",
+          "93 Front Street, Cuthbert, GA 39840"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Randolph County Government Center. A ballot dropbox is available inside the lobby during early voting hours (8:00 AM – 5:00 PM). Election Day is May 19, 2026.",
+      "source_url": "https://www.randolphcountyga.com/board-of-elections-and-registration",
+      "source_name": "Randolph County Board of Elections and Registration"
     },
     "Richmond": {
       "hours_summary": "Mon–Fri 8:30a–6p · Sat May 2 & 9: 8:30a–6p · Sun May 3: 8:30a–6p (Municipal Bldg only)",
@@ -2409,20 +2397,17 @@
       "notes": "Sunday voting on May 3 is available ONLY at the Linda Beazley/Municipal Building location. An absentee ballot drop box is also available at the Municipal Building during early voting hours."
     },
     "Rockdale": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p (Apr 27 – May 12) · Sat May 2 & 9: 9a–5p · Sun May 3: 10a–3p · Wed–Fri May 13–15: 8a–7p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Rockdale County Board of Elections Office",
+          "1115 West Avenue, SW, Conyers, GA 30012"
         ]
-      ]
+      ],
+      "notes": "Sunday voting is available on May 3 from 10 a.m. to 3 p.m. Extended evening hours until 7 p.m. are available during the final three days of early voting (May 13–15). This is the only early voting location in the county.",
+      "source_url": "https://www.rockdalecountyga.gov/upcoming-elections/",
+      "source_name": "Rockdale County Board of Elections"
     },
     "Schley": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2441,20 +2426,17 @@
       ]
     },
     "Screven": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p · Sun May 3: 10a–4p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Screven County Board of Elections and Registration (Courthouse)",
+          "216 Mims Rd, Room 114, Sylvania, GA 30467"
         ]
-      ]
+      ],
+      "notes": "Includes Saturday voting on May 2 and May 9, and Sunday voting on May 3. Information is based on the official 2026 Election Information flyer posted by the county elections office.",
+      "source_url": "https://www.facebook.com/p/Screven-County-Board-of-Elections-61559312873474/",
+      "source_name": "Screven County Board of Elections"
     },
     "Seminole": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2521,52 +2503,43 @@
       ]
     },
     "Sumter": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Americus/Sumter Exposition Center",
+          "903 Adderton St, Americus, GA 31719"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Americus/Sumter Exposition Center. Saturday voting is available on May 2 and May 9 from 9:00 AM to 5:00 PM. No Sunday voting is listed. Absentee ballot applications are accepted until May 8, 2026.",
+      "source_url": "https://www.sumtercountygaelections.us",
+      "source_name": "Sumter County Board of Elections and Voter Registration"
     },
     "Talbot": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8:30a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Talbot County Board of Elections & Registration",
+          "1761 Geneva Highway, Talbotton, GA 31827"
         ]
-      ]
+      ],
+      "notes": "Early voting is conducted at the Board of Elections office. Saturday voting is available on May 2 and May 9, 2026. A ballot drop box is available inside the office during early voting hours.",
+      "source_url": "https://www.talbotcountyga.org/board-elections-and-registration",
+      "source_name": "Talbot County Board of Elections & Registration"
     },
     "Taliaferro": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: (hours not specified, typically 9a–5p)",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Taliaferro County Courthouse",
+          "113 Monument Street, Crawfordville, GA 30631"
         ]
-      ]
+      ],
+      "notes": "Saturday voting is held on May 2 and May 9, 2026. Advanced voting is conducted at the county courthouse.",
+      "source_url": "https://taliaferrocountyga.org/board-of-registrars/",
+      "source_name": "Taliaferro County Board of Registrars, Georgia My Voter Page"
     },
     "Tattnall": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2859,20 +2832,17 @@
       ]
     },
     "Washington": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Washington County Board of Elections Office (Elections Building)",
+          "150 Riddleville Rd, Sandersville, GA 31082"
         ]
-      ]
+      ],
+      "notes": "Advance voting is conducted solely at the Washington County Board of Elections office. Per Georgia law, early voting includes two mandatory Saturdays (May 2 and May 9).",
+      "source_url": "https://www.washingtoncountyga.gov/203/Board-of-Elections-Registration",
+      "source_name": "Washington County Board of Elections"
     },
     "Wayne": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
