@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Georgia 2026 Primary — Early Voting Locations</title>
-<meta name="description" content="Interactive map of Georgia's 159 counties with early voting locations and hours for the May 19, 2026 primary election.">
+<title id="page-title">Georgia 2026 Primary — Early Voting Locations</title>
+<meta name="description" content="Interactive map of Georgia's 159 counties with early voting locations and hours for the May 19, 2026 primary election. English and Spanish.">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <style>
   :root {
@@ -34,6 +34,7 @@
     color: #fff;
     padding: 18px 28px 22px;
     border-bottom: 4px solid var(--accent);
+    position: relative;
   }
   .topbar h1 {
     margin: 0 0 4px 0;
@@ -41,10 +42,49 @@
     font-weight: 600;
     font-size: 26px;
     letter-spacing: -0.01em;
+    padding-right: 160px;
   }
-  .topbar .sub { color: #C8CFD8; font-size: 14px; }
+  .topbar .sub { color: #C8CFD8; font-size: 14px; padding-right: 160px; }
   .topbar .meta { display: flex; flex-wrap: wrap; gap: 16px 28px; margin-top: 10px; font-size: 13px; color: #A8B2BD; }
   .topbar .meta b { color: var(--gold); font-weight: 600; }
+
+  /* Language toggle button */
+  .lang-toggle {
+    position: absolute;
+    top: 18px;
+    right: 28px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--gold);
+    color: #1B2A3D;
+    border: 2px solid var(--gold);
+    padding: 10px 18px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    text-transform: uppercase;
+    transition: background 120ms ease, color 120ms ease, transform 80ms ease;
+    box-shadow: 0 2px 0 rgba(0,0,0,0.2);
+  }
+  .lang-toggle:hover { background: #fff; color: var(--ink); }
+  .lang-toggle:active { transform: translateY(1px); box-shadow: 0 1px 0 rgba(0,0,0,0.2); }
+  .lang-toggle .globe {
+    font-size: 16px;
+    line-height: 1;
+    display: inline-block;
+  }
+  @media (max-width: 700px) {
+    .topbar h1, .topbar .sub { padding-right: 0; }
+    .lang-toggle {
+      position: static;
+      display: inline-flex;
+      margin: 12px 0 4px;
+    }
+  }
 
   main {
     display: grid;
@@ -88,6 +128,7 @@
     font-size: 12px;
     color: var(--ink-soft);
     align-items: center;
+    flex-wrap: wrap;
   }
   .legend .swatch { display: inline-block; width: 14px; height: 14px; border: 1px solid rgba(0,0,0,0.15); margin-right: 5px; vertical-align: middle; border-radius: 2px; }
   .swatch.has-data { background: var(--has-data); }
@@ -183,7 +224,7 @@
 
   .info-row {
     display: grid;
-    grid-template-columns: 90px 1fr;
+    grid-template-columns: 110px 1fr;
     gap: 10px 14px;
     margin-bottom: 6px;
     font-size: 14px;
@@ -276,54 +317,51 @@
     border-left: 4px solid var(--gold);
   }
   .help-banner b { color: var(--gold); }
+  .help-banner a { color: #fff; }
 </style>
 </head>
 <body>
 
 <header class="topbar">
-  <h1>Georgia 2026 Primary — Early Voting Locations</h1>
-  <div class="sub">Hover or click any county to see early voting sites, hours, and addresses.</div>
+  <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Cambiar a español">
+    <span class="globe" aria-hidden="true">🌐</span>
+    <span id="lang-toggle-label">Español</span>
+  </button>
+  <h1 id="h1">Georgia 2026 Primary — Early Voting Locations</h1>
+  <div class="sub" id="subtitle">Hover or click any county to see early voting sites, hours, and addresses.</div>
   <div class="meta">
-    <span>Election day: <b>Tuesday, May 19, 2026</b></span>
-    <span>Early voting: <b>April 27 – May 15</b></span>
-    <span>Polls open Election Day: <b>7am – 7pm</b></span>
-    <span>Help line: <b>866-OUR-VOTE (866-687-8683)</b></span>
+    <span><span id="m-election-day">Election day:</span> <b id="m-election-day-value">Tuesday, May 19, 2026</b></span>
+    <span><span id="m-early-voting">Early voting:</span> <b id="m-early-voting-value">April 27 – May 15</b></span>
+    <span><span id="m-polls-open">Polls open Election Day:</span> <b id="m-polls-open-value">7am – 7pm</b></span>
+    <span><span id="m-help-line">Help line:</span> <b id="m-help-line-value">866-OUR-VOTE (866-687-8683)</b></span>
   </div>
 </header>
 
 <main>
   <section class="map-pane">
     <div class="controls">
-      <input id="search" class="search" type="search" placeholder="Search counties (e.g., Fulton, Bibb, Chatham)…" autocomplete="off">
+      <input id="search" class="search" type="search" autocomplete="off">
       <div class="legend">
-        <span><span class="swatch has-data"></span>Detailed sites listed</span>
-        <span><span class="swatch no-data"></span>Use county lookup</span>
-        <span><span class="swatch selected"></span>Selected</span>
+        <span><span class="swatch has-data"></span><span id="lg-has">Detailed sites listed</span></span>
+        <span><span class="swatch no-data"></span><span id="lg-no">Use county lookup</span></span>
+        <span><span class="swatch selected"></span><span id="lg-sel">Selected</span></span>
       </div>
     </div>
     <div class="map-wrap">
-      <svg class="map" id="ga-map" viewBox="0 0 600 720" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Map of Georgia counties"></svg>
+      <svg class="map" id="ga-map" viewBox="0 0 600 720" preserveAspectRatio="xMidYMid meet" role="img"></svg>
     </div>
   </section>
 
-  <aside class="detail-pane empty" id="detail">
-    <div class="empty-state">
-      <div class="big">Pick a county</div>
-      Hover any county on the map for a quick peek, or click to see full early-voting locations and hours. Six metro Atlanta counties have detailed site lists; all 159 counties link to the official lookup.
-    </div>
-  </aside>
+  <aside class="detail-pane empty" id="detail"></aside>
 </main>
 
 <div class="tooltip" id="tooltip"><div class="name"></div><div class="hint"></div></div>
 
-<footer>
-  Nonpartisan voter information · Built with public data from county elections offices and the Georgia Secretary of State ·
-  <a href="https://mvp.sos.ga.gov" target="_blank" rel="noopener">My Voter Page</a> ·
-  <a href="https://georgia.gov/vote-early-person" target="_blank" rel="noopener">Georgia.gov early voting</a>
-</footer>
+<footer id="footer"></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="i18n.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
