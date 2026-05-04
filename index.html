@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Georgia 2026 Primary — Early Voting Locations</title>
+<meta name="description" content="Interactive map of Georgia's 159 counties with early voting locations and hours for the May 19, 2026 primary election.">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<style>
+  :root {
+    --bg: #F5F1E8;
+    --surface: #FBF8F1;
+    --surface-2: #EFEADC;
+    --ink: #1B2A3D;
+    --ink-soft: #4A5B70;
+    --muted: #6F7B8B;
+    --border: #D8D2C2;
+    --accent: #8B2E2E;
+    --gold: #B8893A;
+    --teal: #1B4D7A;
+    --highlighted: #E8C97A;
+    --has-data: #1B4D7A;
+    --no-data: #C9C3B3;
+    --hover: #B8893A;
+    --selected: #8B2E2E;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--teal); text-decoration: underline; text-underline-offset: 2px; }
+  a:hover { color: var(--accent); }
+
+  .topbar {
+    background: var(--ink);
+    color: #fff;
+    padding: 18px 28px 22px;
+    border-bottom: 4px solid var(--accent);
+  }
+  .topbar h1 {
+    margin: 0 0 4px 0;
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600;
+    font-size: 26px;
+    letter-spacing: -0.01em;
+  }
+  .topbar .sub { color: #C8CFD8; font-size: 14px; }
+  .topbar .meta { display: flex; flex-wrap: wrap; gap: 16px 28px; margin-top: 10px; font-size: 13px; color: #A8B2BD; }
+  .topbar .meta b { color: var(--gold); font-weight: 600; }
+
+  main {
+    display: grid;
+    grid-template-columns: minmax(420px, 1.4fr) minmax(360px, 1fr);
+    gap: 0;
+    min-height: calc(100vh - 96px);
+  }
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; }
+  }
+
+  .map-pane {
+    position: relative;
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    padding: 18px 18px 24px;
+    display: flex;
+    flex-direction: column;
+  }
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+  }
+  .search {
+    flex: 1;
+    min-width: 180px;
+    padding: 9px 12px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: #fff;
+    font: inherit;
+    color: var(--ink);
+  }
+  .search:focus { outline: 2px solid var(--gold); outline-offset: -1px; }
+  .legend {
+    display: flex;
+    gap: 14px;
+    font-size: 12px;
+    color: var(--ink-soft);
+    align-items: center;
+  }
+  .legend .swatch { display: inline-block; width: 14px; height: 14px; border: 1px solid rgba(0,0,0,0.15); margin-right: 5px; vertical-align: middle; border-radius: 2px; }
+  .swatch.has-data { background: var(--has-data); }
+  .swatch.no-data { background: var(--no-data); }
+  .swatch.selected { background: var(--selected); }
+
+  .map-wrap { flex: 1; position: relative; min-height: 480px; }
+  svg.map { width: 100%; height: 100%; display: block; }
+  svg.map path.county {
+    fill: var(--no-data);
+    stroke: #fff;
+    stroke-width: 0.5;
+    cursor: pointer;
+    transition: fill 120ms ease;
+  }
+  svg.map path.county.has-data { fill: var(--has-data); }
+  svg.map path.county:hover { fill: var(--hover); }
+  svg.map path.county.selected { fill: var(--selected); stroke: #1B2A3D; stroke-width: 1.2; }
+
+  .tooltip {
+    position: fixed;
+    pointer-events: none;
+    background: var(--ink);
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    line-height: 1.4;
+    transform: translate(-50%, -130%);
+    opacity: 0;
+    transition: opacity 80ms ease;
+    z-index: 50;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+  }
+  .tooltip.show { opacity: 1; }
+  .tooltip .name { font-weight: 600; }
+  .tooltip .hint { color: var(--gold); font-size: 11px; margin-top: 1px; }
+
+  /* Detail pane */
+  .detail-pane {
+    background: var(--bg);
+    padding: 22px 26px 32px;
+    overflow-y: auto;
+    max-height: calc(100vh - 96px);
+  }
+  .detail-pane.empty .empty-state { display: block; }
+  .empty-state {
+    display: none;
+    color: var(--muted);
+    padding: 60px 8px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .empty-state .big {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 22px;
+    color: var(--ink);
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  .county-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .county-header h2 {
+    margin: 0;
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+  .county-header .county-tag {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: #fff;
+    background: var(--accent);
+    padding: 4px 10px;
+    border-radius: 2px;
+    font-weight: 600;
+  }
+  .county-header .county-tag.placeholder { background: var(--muted); }
+
+  .info-row {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 10px 14px;
+    margin-bottom: 6px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .info-row .label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; padding-top: 2px; }
+  .info-row .value { color: var(--ink); }
+  .info-row .value b { color: var(--accent); }
+
+  .notes {
+    margin: 8px 0 4px;
+    padding: 8px 12px;
+    background: var(--surface-2);
+    border-left: 3px solid var(--gold);
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+
+  .placeholder-note {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 14px 16px;
+    margin-top: 14px;
+    border-radius: 3px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+  .placeholder-note .lead { color: var(--ink); font-weight: 600; }
+
+  h3.section {
+    margin: 22px 0 8px;
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 17px;
+    color: var(--ink);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 4px;
+  }
+  ul.locations { list-style: none; margin: 0; padding: 0; }
+  ul.locations li {
+    padding: 9px 0;
+    border-bottom: 1px solid var(--border);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    column-gap: 12px;
+    align-items: start;
+  }
+  ul.locations li:last-child { border-bottom: 0; }
+  ul.locations .name { font-weight: 600; color: var(--ink); font-size: 14px; }
+  ul.locations .addr { color: var(--ink-soft); font-size: 13px; line-height: 1.4; margin-top: 2px; }
+  ul.locations .map-link {
+    font-size: 12px;
+    color: var(--teal);
+    white-space: nowrap;
+    text-decoration: none;
+    border: 1px solid var(--border);
+    padding: 4px 9px;
+    border-radius: 3px;
+    background: #fff;
+    align-self: center;
+  }
+  ul.locations .map-link:hover { background: var(--gold); color: #fff; border-color: var(--gold); }
+
+  .sources {
+    margin-top: 22px;
+    font-size: 12px;
+    color: var(--muted);
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+  }
+
+  footer {
+    background: var(--ink);
+    color: #C8CFD8;
+    padding: 14px 28px;
+    font-size: 12px;
+    text-align: center;
+    border-top: 4px solid var(--gold);
+  }
+  footer a { color: var(--gold); }
+
+  .help-banner {
+    background: var(--ink);
+    color: #fff;
+    padding: 10px 16px;
+    margin-top: 18px;
+    border-radius: 3px;
+    font-size: 13px;
+    line-height: 1.5;
+    border-left: 4px solid var(--gold);
+  }
+  .help-banner b { color: var(--gold); }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <h1>Georgia 2026 Primary — Early Voting Locations</h1>
+  <div class="sub">Hover or click any county to see early voting sites, hours, and addresses.</div>
+  <div class="meta">
+    <span>Election day: <b>Tuesday, May 19, 2026</b></span>
+    <span>Early voting: <b>April 27 – May 15</b></span>
+    <span>Polls open Election Day: <b>7am – 7pm</b></span>
+    <span>Help line: <b>866-OUR-VOTE (866-687-8683)</b></span>
+  </div>
+</header>
+
+<main>
+  <section class="map-pane">
+    <div class="controls">
+      <input id="search" class="search" type="search" placeholder="Search counties (e.g., Fulton, Bibb, Chatham)…" autocomplete="off">
+      <div class="legend">
+        <span><span class="swatch has-data"></span>Detailed sites listed</span>
+        <span><span class="swatch no-data"></span>Use county lookup</span>
+        <span><span class="swatch selected"></span>Selected</span>
+      </div>
+    </div>
+    <div class="map-wrap">
+      <svg class="map" id="ga-map" viewBox="0 0 600 720" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Map of Georgia counties"></svg>
+    </div>
+  </section>
+
+  <aside class="detail-pane empty" id="detail">
+    <div class="empty-state">
+      <div class="big">Pick a county</div>
+      Hover any county on the map for a quick peek, or click to see full early-voting locations and hours. Six metro Atlanta counties have detailed site lists; all 159 counties link to the official lookup.
+    </div>
+  </aside>
+</main>
+
+<div class="tooltip" id="tooltip"><div class="name"></div><div class="hint"></div></div>
+
+<footer>
+  Nonpartisan voter information · Built with public data from county elections offices and the Georgia Secretary of State ·
+  <a href="https://mvp.sos.ga.gov" target="_blank" rel="noopener">My Voter Page</a> ·
+  <a href="https://georgia.gov/vote-early-person" target="_blank" rel="noopener">Georgia.gov early voting</a>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

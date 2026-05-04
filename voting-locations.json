@@ -1,0 +1,2832 @@
+{
+  "election": "Georgia 2026 Primary Election",
+  "election_date": "May 19, 2026",
+  "early_voting_period": "April 27 – May 15, 2026",
+  "counties": {
+    "Appling": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Atkinson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bacon": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Baker": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Baldwin": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Banks": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Barrow": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bartow": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Ben Hill": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Berrien": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bibb": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bleckley": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Brantley": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Brooks": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bryan": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Bulloch": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Burke": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Butts": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Calhoun": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Camden": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Candler": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Carroll": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Catoosa": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Charlton": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Chatham": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Chattahoochee": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Chattooga": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Cherokee": {
+      "hours_summary": "Apr 27 – May 9: 8:30a–5p · May 11–15: 8:30a–7p · Sun May 3 only at Elections Office, 1p–5p",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "Elections & Voter Registration Office",
+          "193 Lamar Haley Pkwy, Canton, GA 30114"
+        ],
+        [
+          "Ball Ground Public Library",
+          "435 Old Canton Rd, Ball Ground, GA 30107"
+        ],
+        [
+          "Hickory Flat Public Library",
+          "2740 E Cherokee Dr, Canton, GA 30115"
+        ],
+        [
+          "Rose Creek Public Library",
+          "4476 Towne Lake Pkwy, Woodstock, GA 30189"
+        ],
+        [
+          "Oak Grove Fire Station Community Room",
+          "100 Ridge Mill Ct, Acworth, GA 30102"
+        ],
+        [
+          "South Cherokee Annex / Rec Center",
+          "7545 Main St, Woodstock, GA 30188"
+        ],
+        [
+          "Buzz Ahrens Recreation Center",
+          "7345 Cumming Hwy, Canton, GA 30115"
+        ]
+      ],
+      "sources": [
+        [
+          "Cherokee County Elections",
+          "https://cherokeegavotes.com/advance-voting-2/"
+        ]
+      ]
+    },
+    "Clarke": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Clay": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Clayton": {
+      "hours_summary": "Mon–Fri 8a–6p · Sat 9a–4p · Closed Sundays",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "Voter Registration & Elections Office (Annex 3)",
+          "121 South McDonough St, Jonesboro, GA 30236"
+        ],
+        [
+          "Frank Bailey Senior Center",
+          "6213 Riverdale Rd, Riverdale, GA 30274"
+        ],
+        [
+          "North Clayton Park & Recreation",
+          "1346 Old Dixie Hwy, Hapeville, GA 30354"
+        ],
+        [
+          "Randy Poynter Library (Forest Park)",
+          "696 Main St, Forest Park, GA 30297"
+        ],
+        [
+          "Morrow Center",
+          "1180 Southlake Cir, Morrow, GA 30260"
+        ]
+      ],
+      "sources": [
+        [
+          "Clayton County Elections",
+          "https://www.claytoncountyga.gov/government/elections-and-registration/"
+        ]
+      ]
+    },
+    "Clinch": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Cobb": {
+      "hours_summary": "Mon–Fri 7a–7p · Sat 9a–5p · Sun 12p–5p (★ sites only)",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "★ Main Elections Office",
+          "995 Roswell St NE, Marietta, GA 30060"
+        ],
+        [
+          "★ North Cobb Senior Center",
+          "3900 S Main St, Acworth, GA 30101"
+        ],
+        [
+          "★ South Cobb Community Center",
+          "620 Lions Club Dr, Mableton, GA 30126"
+        ],
+        [
+          "★ East Cobb Govt. Service Center",
+          "4400 Lower Roswell Rd, Marietta, GA 30068"
+        ],
+        [
+          "★ Boots Ward Recreation Center",
+          "4845 Dallas Hwy, Powder Springs, GA 30127"
+        ],
+        [
+          "Milford Recreation Center",
+          "675 Smyrna Powder Springs Rd, Marietta, GA 30060"
+        ],
+        [
+          "Ron Anderson Recreation Center",
+          "3820 Macedonia Rd, Powder Springs, GA 30127"
+        ],
+        [
+          "Tim D. Lee Senior Center",
+          "3332 Sandy Plains Rd, Marietta, GA 30066"
+        ],
+        [
+          "West Cobb Regional Library",
+          "1750 Dennis Kemp Ln, Kennesaw, GA 30152"
+        ],
+        [
+          "Collar Park Community Center",
+          "2625 Joe Jerkins Blvd, Austell, GA 30106"
+        ],
+        [
+          "Ben Robertson Community Center",
+          "2753 Watts Dr, Kennesaw, GA 30144"
+        ],
+        [
+          "Fair Oaks Recreation Center",
+          "1465 W Booth Rd, Marietta, GA 30008"
+        ],
+        [
+          "First Baptist of Smyrna",
+          "1275 Church St, Smyrna, GA 30080"
+        ]
+      ],
+      "notes": "★ = also open Sundays",
+      "sources": [
+        [
+          "Cobb County Elections",
+          "https://www.cobbcounty.org/elections"
+        ]
+      ]
+    },
+    "Coffee": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Colquitt": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Columbia": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Cook": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Coweta": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Crawford": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Crisp": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Dade": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Dawson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "DeKalb": {
+      "hours_summary": "Mon–Fri 7a–7p · Sat 9a–5p · Sun 12p–5p (select sites)",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "Voter Registration & Elections Office",
+          "4380 Memorial Dr, Decatur, GA 30032"
+        ],
+        [
+          "Bessie Branham Recreation Center",
+          "2051 Delano Dr NE, Atlanta, GA 30317"
+        ],
+        [
+          "County Line / Ellenwood Library",
+          "4331 River Rd, Ellenwood, GA 30294"
+        ],
+        [
+          "Berean Christian Church",
+          "2201 Young Rd, Stone Mountain, GA 30088"
+        ],
+        [
+          "Brookhaven Library",
+          "1242 N Druid Hills Rd NE, Brookhaven, GA 30319"
+        ],
+        [
+          "Chamblee Civic Center",
+          "3540 Broad St, Chamblee, GA 30341"
+        ],
+        [
+          "Lithonia-Davidson Library",
+          "6821 Church St, Lithonia, GA 30058"
+        ],
+        [
+          "Stonecrest Library",
+          "3123 Klondike Rd, Stonecrest, GA 30038"
+        ],
+        [
+          "Tucker-Reid H. Cofer Library",
+          "5234 LaVista Rd, Tucker, GA 30084"
+        ],
+        [
+          "Wesley Chapel-William C. Brown Library",
+          "2861 Wesley Chapel Rd, Decatur, GA 30034"
+        ],
+        [
+          "Dunwoody Library",
+          "5339 Chamblee Dunwoody Rd, Dunwoody, GA 30338"
+        ]
+      ],
+      "sources": [
+        [
+          "DeKalb Voter Registration & Elections",
+          "https://www.dekalbvotes.com/"
+        ]
+      ]
+    },
+    "Decatur": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Dodge": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Dooly": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Dougherty": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Douglas": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Early": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Echols": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Effingham": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Elbert": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Emanuel": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Evans": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Fannin": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Fayette": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Floyd": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Forsyth": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Franklin": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Fulton": {
+      "hours_summary": "Mon–Fri 7a–7p · Sat 9a–5p · Sun 10a–4p (select sites)",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "Fulton County Govt Center",
+          "130 Peachtree St SW, Atlanta, GA 30303"
+        ],
+        [
+          "C.T. Martin Natatorium",
+          "3201 Martin L King Jr Dr SW, Atlanta, GA 30311"
+        ],
+        [
+          "Buckhead Library",
+          "269 Buckhead Ave NE, Atlanta, GA 30305"
+        ],
+        [
+          "Adams Park Library",
+          "2231 Campbellton Rd SW, Atlanta, GA 30311"
+        ],
+        [
+          "Wolf Creek Library",
+          "3100 Enon Rd, South Fulton, GA 30331"
+        ],
+        [
+          "Sandy Springs Library",
+          "395 Mt Vernon Hwy NE, Sandy Springs, GA 30328"
+        ],
+        [
+          "Roswell Library",
+          "115 Norcross St, Roswell, GA 30075"
+        ],
+        [
+          "Alpharetta Library",
+          "10 Park Plaza, Alpharetta, GA 30009"
+        ],
+        [
+          "Milton Library",
+          "855 Mayfield Rd, Milton, GA 30009"
+        ],
+        [
+          "Johns Creek Environmental Campus",
+          "8100 Holcomb Bridge Rd, Roswell, GA 30022"
+        ],
+        [
+          "Robert F. Fulton Ocee Library",
+          "5090 Abbotts Bridge Rd, Johns Creek, GA 30005"
+        ],
+        [
+          "East Roswell Library",
+          "2301 Holcomb Bridge Rd, Roswell, GA 30076"
+        ],
+        [
+          "Northeast Spruill Oaks Library",
+          "9560 Spruill Rd, Johns Creek, GA 30022"
+        ],
+        [
+          "Welcome All Recreation Center",
+          "4255 Will Lee Rd, Atlanta, GA 30349"
+        ],
+        [
+          "South Fulton Service Center",
+          "5600 Stonewall Tell Rd, South Fulton, GA 30349"
+        ],
+        [
+          "Elections Hub and Operations Center",
+          "5600 Campbellton Fairburn Rd, Union City, GA 30213"
+        ],
+        [
+          "Etris-Darnell Community Recreation Center",
+          "5285 Lakeside Dr, Union City, GA 30291"
+        ],
+        [
+          "Evelyn G. Lowery Library at Cascade",
+          "3665 Cascade Rd SW, South Fulton, GA 30331"
+        ],
+        [
+          "Fairburn Annex",
+          "40 Washington St, Fairburn, GA 30213"
+        ],
+        [
+          "Flipper Temple AME Church",
+          "580 Atlanta Student Movement Blvd, Atlanta, GA 30314"
+        ],
+        [
+          "Fulton County Health and Human Services - North",
+          "4700 North Point Pkwy, Alpharetta, GA 30005"
+        ],
+        [
+          "Gladys S. Dennard Library at South Fulton",
+          "4055 Flat Shoals Rd, South Fulton, GA 30291"
+        ],
+        [
+          "Grant Park Recreation Center",
+          "537 Park Ave SE, Atlanta, GA 30312"
+        ],
+        [
+          "Hugh C. Conley Recreation Center",
+          "3636 College St, College Park, GA 30337"
+        ],
+        [
+          "Joan P. Garner Library at Ponce De Leon",
+          "980 Ponce De Leon Ave NE, Atlanta, GA 30306"
+        ],
+        [
+          "Mechanicsville Library",
+          "400 Formwalt St SW, Atlanta, GA 30312"
+        ],
+        [
+          "Metropolitan Library",
+          "1332 Metropolitan Pkwy SW, Atlanta, GA 30310"
+        ],
+        [
+          "North Fulton Service Center",
+          "7741 Roswell Rd, Sandy Springs, GA 30350"
+        ],
+        [
+          "Northside Library",
+          "3295 Northside Pkwy NW, Atlanta, GA 30327"
+        ],
+        [
+          "Northwest Library at Scotts Crossing",
+          "2489 Perry Blvd NW, Atlanta, GA 30318"
+        ],
+        [
+          "Palmetto Library",
+          "9111 Cascade Palmetto Hwy, Palmetto, GA 30268"
+        ],
+        [
+          "Southwest Arts Center",
+          "915 New Hope Rd SW, South Fulton, GA 30331"
+        ]
+      ],
+      "sources": [
+        [
+          "Fulton County Elections",
+          "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations"
+        ]
+      ]
+    },
+    "Gilmer": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Glascock": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Glynn": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Gordon": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Grady": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Greene": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Gwinnett": {
+      "hours_summary": "Mon–Fri 7a–7p · Sat May 9: 9a–5p · Closed Sundays",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [
+        [
+          "Voter Registration & Elections Office",
+          "455 Grayson Hwy, Suite 200, Lawrenceville, GA 30046"
+        ],
+        [
+          "Bogan Park Community Recreation Center",
+          "2723 N Bogan Rd, Buford, GA 30519"
+        ],
+        [
+          "Centerville Community Center",
+          "3025 Bethany Church Rd, Snellville, GA 30039"
+        ],
+        [
+          "George Pierce Park Community Recreation Center",
+          "55 Buford Hwy, Suwanee, GA 30024"
+        ],
+        [
+          "Lenora Park Gym",
+          "4515 Lenora Church Rd, Snellville, GA 30039"
+        ],
+        [
+          "Lucky Shoals Park Community Recreation Center",
+          "4651 Britt Rd, Norcross, GA 30093"
+        ],
+        [
+          "Mountain Park Activity Building",
+          "1063 Rockbridge Rd, Stone Mountain, GA 30087"
+        ],
+        [
+          "Shorty Howell Park Activity Building",
+          "2750 Pleasant Hill Rd, Duluth, GA 30096"
+        ]
+      ],
+      "sources": [
+        [
+          "Gwinnett County Elections",
+          "https://www.gwinnettcounty.com/government/departments/elections/voting/advance"
+        ]
+      ]
+    },
+    "Habersham": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Hall": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Hancock": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Haralson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Harris": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Hart": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Heard": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Henry": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Houston": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Irwin": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jackson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jasper": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jeff Davis": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jefferson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jenkins": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Johnson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Jones": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lamar": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lanier": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Laurens": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lee": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Liberty": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lincoln": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Long": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lowndes": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Lumpkin": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Macon": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Madison": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Marion": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "McDuffie": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "McIntosh": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Meriwether": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Miller": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Mitchell": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Monroe": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Montgomery": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Morgan": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Murray": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Muscogee": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Newton": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Oconee": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Oglethorpe": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Paulding": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Peach": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Pickens": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Pierce": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Pike": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Polk": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Pulaski": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Putnam": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Quitman": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Rabun": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Randolph": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Richmond": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Rockdale": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Schley": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Screven": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Seminole": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Spalding": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Stephens": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Stewart": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Sumter": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Talbot": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Taliaferro": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Tattnall": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Taylor": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Telfair": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Terrell": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Thomas": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Tift": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Toombs": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Towns": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Treutlen": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Troup": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Turner": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Twiggs": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Union": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Upson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Walker": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Walton": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Ware": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Warren": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Washington": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Wayne": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Webster": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Wheeler": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "White": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Whitfield": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Wilcox": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Wilkes": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Wilkinson": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    },
+    "Worth": {
+      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "dates": "Apr 27 – May 15, 2026",
+      "locations": [],
+      "placeholder": true,
+      "sources": [
+        [
+          "My Voter Page",
+          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+        ],
+        [
+          "Georgia.gov early voting",
+          "https://georgia.gov/vote-early-person"
+        ]
+      ]
+    }
+  }
+}
