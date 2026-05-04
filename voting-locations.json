@@ -116,20 +116,29 @@
       ]
     },
     "Bartow": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
-      "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "hours_summary": "Mon–Sat Apr 27–May 9: 8a–5p (Main Office); Mon–Fri May 11–15: 8a–6p (All locations)",
+      "dates": "April 27 – May 15, 2026",
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Bartow County Elections Office",
+          "1300 Joe Frank Harris Pkwy, Cartersville, GA 30120"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Cartersville Civic Center",
+          "435 W Main St, Cartersville, GA 30120"
+        ],
+        [
+          "Manning Mill Gym",
+          "163 Manning Mill Rd, Adairsville, GA 30103"
+        ],
+        [
+          "Allatoona Resource Center",
+          "6503 Allatoona Gtwy, Acworth, GA 30102"
         ]
-      ]
+      ],
+      "notes": "Saturday voting available May 2 and May 9 at the Elections Office only. No voting the weekend or Monday before Election Day. Satellite locations are only open the final week (May 11–15).",
+      "source_url": "https://www.bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php",
+      "source_name": "Bartow County Elections"
     },
     "Ben Hill": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -164,20 +173,25 @@
       ]
     },
     "Bibb": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8:30a–5:30p · Sat May 2 & 9: 9a–5p · Sun May 3: 11a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Macon-Bibb County Board of Elections Main Office (Macon Mall)",
+          "3661 Eisenhower Parkway, Ste. MB101, Macon, GA 31206"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Elaine H. Lucas Senior Center",
+          "132 Willie Smokie Glover Dr., Macon, GA 31201"
+        ],
+        [
+          "Theron Ussery Park Recreation Center",
+          "815 N Macon Park Drive, Macon, GA 31210"
         ]
-      ]
+      ],
+      "notes": "Sunday voting is available on May 3 from 11a–5p. The Macon Mall entrance is on the Mercer University side near the military recruitment area. Information from the Macon-Bibb County official election notice.",
+      "source_url": "https://www.maconbibb.us/board-of-elections/",
+      "source_name": "Macon-Bibb County Board of Elections"
     },
     "Bleckley": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -340,20 +354,21 @@
       ]
     },
     "Carroll": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8:30a–5p · Sat May 2 & May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Carroll County Election Office",
+          "997 Newnan Road, Carrollton, GA 30116"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Powell Park Recreation Center",
+          "524 Leslie Drive, Villa Rica, GA 30180"
         ]
-      ]
+      ],
+      "notes": "The Powell Park site is open for the final week of early voting only (May 11–15, 2026) from 8:30 am to 5:00 pm. Information is specific to the May 2026 Primary.",
+      "source_url": "https://www.carrollcountyga.gov/323/Elections-Voter-Registration",
+      "source_name": "Carroll County Elections & Voter Registration"
     },
     "Catoosa": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -497,20 +512,33 @@
       ]
     },
     "Clarke": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p · Sun May 3 (Elections Office): 1p–3p · May 11–14: 8a–7p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Elections Office",
+          "155 E Washington St, Athens, GA 30601"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Athens-Clarke County Library",
+          "2025 Baxter St, Athens, GA 30606"
+        ],
+        [
+          "Athens-Clarke County Tennis Center",
+          "4460 Lexington Rd, Athens, GA 30605"
+        ],
+        [
+          "Cooperative Extension",
+          "275 Cleveland Rd, Bogart, GA 30622"
+        ],
+        [
+          "Miriam Moore Community Center",
+          "410 McKinley Dr, Athens, GA 30605"
         ]
-      ]
+      ],
+      "notes": "Elections Office open entire period; Library opens May 4; other sites open May 9. Sunday voting May 3 (1-3 PM) at Elections Office only. Extended hours (8 AM - 7 PM) available May 11-14 at all locations.",
+      "source_url": "https://www.accgov.com/advancevoting",
+      "source_name": "Athens-Clarke County Elections Department"
     },
     "Clay": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -919,20 +947,41 @@
       ]
     },
     "Douglas": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
-      "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "hours_summary": "Mon–Fri 8:30a–6:00p · Sat May 2 & May 9: 9:00a–5:00p",
+      "dates": "April 27 – May 15, 2026",
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Douglas County Courthouse",
+          "8700 Hospital Drive, Douglasville, GA 30134"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Deer Lick Park",
+          "2105 Mack Road, Douglasville, GA 30135"
+        ],
+        [
+          "Dog River Library",
+          "6100 Georgia Highway 5, Douglasville, GA 30135"
+        ],
+        [
+          "Woodie Fite Senior Center",
+          "8750 Dorris Road, Douglasville, GA 30134"
+        ],
+        [
+          "The Old Courthouse",
+          "6754 West Broad Street, Douglasville, GA 30134"
+        ],
+        [
+          "Lithia Springs Senior Center",
+          "7301 Groovers Lake Road, Lithia Springs, GA 30122"
+        ],
+        [
+          "Boundary Waters Activity Center",
+          "4996 Highway 92/166, Douglasville, GA 30135"
         ]
-      ]
+      ],
+      "notes": "Between 9:30 AM and 4:30 PM, voters with a physical disability or who are 75 years of age and older may move to the front of the line. The Douglas County Courthouse also serves as an absentee ballot drop-off location. No Sunday voting hours were listed on the official schedule.",
+      "source_url": "https://www.douglascountyga.gov/843/Early-In-Person",
+      "source_name": "Douglas County Board of Elections & Registration"
     },
     "Early": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1047,20 +1096,29 @@
       ]
     },
     "Fayette": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Sat 9a–5p · Sun May 3: 12p–4p (select locations)",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Fayette Elections Office",
+          "175 Johnson Ave, Fayetteville, GA 30214"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Fayette County Library",
+          "1821 Heritage Park Way, Fayetteville, GA 30214"
+        ],
+        [
+          "Peachtree City Library",
+          "201 Willowbend Rd, Peachtree City, GA 30269"
+        ],
+        [
+          "Tyrone Town Hall",
+          "950 Senoia Rd, Tyrone, GA 30290"
         ]
-      ]
+      ],
+      "notes": "Sunday voting is available on May 3rd from 12:00 PM to 4:00 PM only at the Fayette Elections Office and the Peachtree City Library. Early voting concludes at 5:00 PM on Friday, May 15.",
+      "source_url": "https://fayettecountyga.gov/Documents/Departments/Elections/Advanced%20Voting%20-%20May%202026%20General%20Primary%20&%20Nonpartisan%20Election.pdf?t=202603101440470",
+      "source_name": "[Fayette County Elections](https://fayettecountyga.gov/departments/elections/index.php)"
     },
     "Floyd": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1843,20 +1901,17 @@
       ]
     },
     "Lowndes": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 7a–7p · Sat May 2 & May 9: 9a–5p · Sun May 3 & May 10: 12p–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Lowndes County Public Safety Training Center",
+          "903 N Patterson St, Valdosta, GA 31601"
         ]
-      ]
+      ],
+      "notes": "This location (the \"old Georgia Power building\") is the primary early voting site for Lowndes County in 2026. Weekend voting includes both Saturdays and Sundays during the early voting period. According to official Lowndes County information, voters from all precincts may vote at this location. Hours are based on the announced schedule for the concurrent Special Election.",
+      "source_url": "https://www.lowndescounty.com/222/Polling-Locations",
+      "source_name": "Lowndes County Elections, Valdosta Today"
     },
     "Lumpkin": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2092,20 +2147,21 @@
       "notes": "Early voting hours are expanded to 7 a.m. to 7 p.m. daily, including weekends, for the May 19 primary. A ballot drop box is available at the City Services Center during early voting hours only."
     },
     "Newton": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p (May 13–15: 8a–7p) · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Turner Lake Recreation Center (Banquet Room)",
+          "6185 Turner Lake Road NW, Covington, GA 30014"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Prospect Church at Oak Hill",
+          "6752 Highway 212, Covington, GA 30016"
         ]
-      ]
+      ],
+      "notes": "The official ballot drop box is located at the Board of Elections Office (8134 Geiger St NW, Covington, GA 30014). Early voting began April 27 and concludes May 15. Sunday voting is not scheduled. Newton County BOE, Newton County Government Facebook",
+      "source_url": "https://www.newtoncountyga.gov/169/Ways-to-Vote",
+      "source_name": "Newton County Board of Elections"
     },
     "Oconee": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2766,20 +2822,25 @@
       ]
     },
     "Walton": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Felker Park",
+          "725 S. Madison Ave, Monroe, GA 30655"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "South Walton Community Room",
+          "573 Fairplay Dr., Social Circle, GA 30025"
+        ],
+        [
+          "Meridian Park",
+          "105 Generation Blvd, Loganville, GA 30052"
         ]
-      ]
+      ],
+      "notes": "Walton County has 3 permanent advance voting locations. The Meridian Park location also serves as an absentee ballot drop box site (available inside during voting hours only). Primary Runoff early voting is scheduled for June 8–12, 2026.",
+      "source_url": "https://www.waltoncountyga.gov/285/Advance-Voting",
+      "source_name": "Walton County Board of Elections"
     },
     "Ware": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2894,20 +2955,17 @@
       ]
     },
     "Whitfield": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p · Thu May 14: 8a–7p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Whitfield County Courthouse (Board of Elections Office)",
+          "205 N. Selvidge St., Suite K, Dalton, GA 30720"
         ]
-      ]
+      ],
+      "notes": "Early voting is held only at the Board of Elections office in the Courthouse. Extended hours on Thursday, May 14th (8 AM - 7 PM).",
+      "source_url": "https://www.whitfieldcountyga.com/government/departments/elections.php",
+      "source_name": "Whitfield County Board of Elections"
     },
     "Wilcox": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",

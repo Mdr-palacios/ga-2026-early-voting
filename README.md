@@ -11,13 +11,16 @@ counties for site details.
 ## What's in it
 
 - **Interactive map** of all 159 Georgia counties (D3 + TopoJSON)
-- **Detailed site lists** for the 16 largest Georgia counties — names, addresses,
+- **Bilingual** English / Spanish toggle (top-right) — full UI translation,
+  saved across visits, auto-detects browser language
+- **Detailed site lists** for the 26 largest Georgia counties — names, addresses,
   hours, special notes (Sunday voting, weekend-only sites), and directions links:
   - **Metro Atlanta:** Fulton, DeKalb, Gwinnett, Cobb, Clayton, Cherokee, Henry,
-    Forsyth, Paulding, Coweta
+    Forsyth, Paulding, Coweta, Douglas, Fayette, Newton, Walton, Bartow, Carroll
   - **Outside metro Atlanta:** Chatham (Savannah), Richmond (Augusta),
-    Muscogee (Columbus), Hall (Gainesville), Houston (Warner Robins), Columbia
-- **Statewide fallback** — the remaining 143 counties link to Georgia's official
+    Muscogee (Columbus), Hall (Gainesville), Houston (Warner Robins), Columbia,
+    Bibb (Macon), Clarke (Athens), Lowndes (Valdosta), Whitfield (Dalton)
+- **Statewide fallback** — the remaining 133 counties link to Georgia's official
   My Voter Page early-voting lookup
 - **Hours, dates, Election-Day reminders** built into every county view
 - **Voter help line** (866-OUR-VOTE) on every panel
@@ -67,6 +70,18 @@ Outside metro Atlanta:
 - [Hall County Elections](https://www.hallcounty.org/249/Elections)
 - [Houston County Board of Elections](https://www.houstoncountyga.gov/residents/early-voting.cms)
 - [Columbia County Elections](https://www.columbiacountyga.gov/government/elections-board-of)
+- [Macon-Bibb County Board of Elections](https://www.maconbibb.us/board-of-elections/)
+- [Athens-Clarke County Elections](https://www.accgov.com/advancevoting)
+- [Lowndes County Elections](https://www.lowndescounty.com/222/Polling-Locations)
+- [Whitfield County Elections](https://www.whitfieldcountyga.com/government/departments/elections.php)
+
+Additional metro Atlanta-area:
+- [Douglas County Elections](https://www.douglascountyga.gov/843/Early-In-Person)
+- [Fayette County Elections](https://fayettecountyga.gov/Departments/Elections.aspx)
+- [Newton County Elections](https://www.newtoncountyga.gov/169/Ways-to-Vote)
+- [Walton County Elections](https://www.waltoncountyga.gov/285/Advance-Voting)
+- [Bartow County Elections](https://www.bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php)
+- [Carroll County Elections](https://www.carrollcountyga.gov/542/Early-In-Person-Voting)
 
 Statewide:
 - [Georgia Secretary of State — My Voter Page](https://mvp.sos.ga.gov)
