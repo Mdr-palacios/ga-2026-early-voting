@@ -4,7 +4,7 @@ Interactive nonpartisan dashboard showing early voting locations and hours for t
 **May 19, 2026 Georgia Primary Election**. Hover or click any of Georgia's 159
 counties for site details.
 
-**Live site:** https://_USER_.github.io/ga-2026-early-voting/
+**Live site:** https://mdr-palacios.github.io/ga-2026-early-voting/
 
 ![Screenshot of the dashboard](screenshot.png)
 
