@@ -170,6 +170,28 @@
     return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(query);
   }
 
+  function ballotExplainerHTML() {
+    const s = t();
+    const offices = (s.ballot_offices || []).map(o => `
+      <li>
+        <div class="office-name">${escape(o.name)}</div>
+        <div class="office-what">${escape(o.what)}</div>
+        <div class="office-why">${escape(o.why)}</div>
+      </li>`).join('');
+    return `
+      <details class="ballot-explainer">
+        <summary>
+          <span class="title">${escape(s.ballot_section)}</span>
+          <span class="toggle"><span class="show-text">${escape(s.ballot_show)} ▾</span><span class="hide-text">${escape(s.ballot_hide)} ▴</span></span>
+        </summary>
+        <div class="body">
+          <p class="intro">${escape(s.ballot_intro)}</p>
+          <ul class="offices">${offices}</ul>
+          <div class="county-note">${escape(s.ballot_county_note)} <a href="https://mvp.sos.ga.gov" target="_blank" rel="noopener">${escape(s.ballot_mvp_link)}</a>.</div>
+        </div>
+      </details>`;
+  }
+
   function renderDetail(name, ephemeral) {
     const c = dataByCounty[name];
     if (!c) return;
@@ -237,6 +259,8 @@
       ${notesHTML}
       ${placeholderHTML}
       ${locationsHTML}
+
+      ${ballotExplainerHTML()}
 
       <div class="help-banner">
         <b>${escape(s.help_lead)}</b>${escape(s.help_body_pre)}<b>${escape(s.help_phone)}</b>${escape(s.help_phone_suffix)}
