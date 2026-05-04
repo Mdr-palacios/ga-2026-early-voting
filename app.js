@@ -235,7 +235,8 @@
         '</div>'
       : '';
 
-    const notesHTML = c.notes ? `<div class="notes">${escape(c.notes)}</div>` : '';
+    const noteText = (lang === 'es' && c.notes_es) ? c.notes_es : c.notes;
+    const notesHTML = noteText ? `<div class="notes">${escape(noteText)}</div>` : '';
 
     detail.innerHTML = `
       <div class="county-header">

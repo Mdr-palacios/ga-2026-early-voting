@@ -310,36 +310,43 @@
   .ballot-explainer {
     margin-top: 22px;
     background: var(--surface);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--teal);
+    border: 1px solid var(--gold);
     border-radius: 3px;
     overflow: hidden;
+    box-shadow: 0 1px 0 rgba(184, 137, 58, 0.25);
   }
   .ballot-explainer summary {
     list-style: none;
     cursor: pointer;
     padding: 12px 16px;
-    background: var(--surface-2);
+    background: var(--gold);
+    color: var(--ink);
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 10px;
     user-select: none;
+    transition: background 120ms ease;
   }
+  .ballot-explainer summary:hover { background: #C99C4D; }
   .ballot-explainer summary::-webkit-details-marker { display: none; }
   .ballot-explainer summary .title {
     font-family: 'Source Serif 4', Georgia, serif;
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 17px;
+    font-weight: 700;
     color: var(--ink);
+    letter-spacing: -0.005em;
   }
   .ballot-explainer summary .toggle {
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: var(--teal);
-    font-weight: 600;
+    color: var(--ink);
+    font-weight: 700;
     white-space: nowrap;
+    background: rgba(27, 42, 61, 0.12);
+    padding: 4px 9px;
+    border-radius: 3px;
   }
   .ballot-explainer .body {
     padding: 12px 16px 16px;

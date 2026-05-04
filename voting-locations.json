@@ -29,6 +29,7 @@
         ]
       ],
       "notes": "Mandatory Saturday voting held May 2 and May 9. Dropbox available at the early voting location during voting hours.",
+      "notes_es": "La votación obligatoria del sábado se realiza el 2 y el 9 de mayo. Hay un buzón disponible en el centro de votación anticipada durante el horario de votación.",
       "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=ATKINSON&page=advpollingplace",
       "source_name": "Georgia My Voter Page, Atkinson County Board of Elections"
     },
@@ -74,6 +75,7 @@
         ]
       ],
       "notes": "Early voting is held at the Baldwin County Government Center; use the left side building entrance only. The schedule includes two Saturdays (May 2 and May 9).",
+      "notes_es": "La votación anticipada se realiza en el Baldwin County Government Center; use solo la entrada del lado izquierdo del edificio. El calendario incluye dos sábados (2 y 9 de mayo).",
       "source_url": "https://www.baldwincountyga.com/voting-elections/page/elections-voter-registration",
       "source_name": "Baldwin County Elections & Voter Registration"
     },
@@ -131,6 +133,7 @@
         ]
       ],
       "notes": "Saturday voting available May 2 and May 9 at the Elections Office only. No voting the weekend or Monday before Election Day. Satellite locations are only open the final week (May 11–15).",
+      "notes_es": "Votación de sábado disponible el 2 y 9 de mayo solo en la Oficina Electoral. No hay votación el fin de semana ni el lunes antes del día de elección. Los centros satélite solo abren la última semana (del 11 al 15 de mayo).",
       "source_url": "https://www.bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php",
       "source_name": "Bartow County Elections"
     },
@@ -184,6 +187,7 @@
         ]
       ],
       "notes": "Sunday voting is available on May 3 from 11a–5p. The Macon Mall entrance is on the Mercer University side near the military recruitment area. Information from the Macon-Bibb County official election notice.",
+      "notes_es": "La votación dominical está disponible el 3 de mayo de 11 a.m. a 5 p.m. La entrada del Macon Mall queda en el lado de Mercer University, cerca del área de reclutamiento militar. Información tomada del aviso oficial de elecciones de Macon-Bibb County.",
       "source_url": "https://www.maconbibb.us/board-of-elections/",
       "source_name": "Macon-Bibb County Board of Elections"
     },
@@ -249,6 +253,7 @@
         ]
       ],
       "notes": "Early voting is held at the Pembroke and Richmond Hill locations. Saturday voting is available on May 2 and May 9 from 8:00 AM to 5:00 PM. Note that the Board of Elections office has moved to a new location at Hendrix Park in Ellabell, but it is not listed as an early voting site for this primary.",
+      "notes_es": "La votación anticipada se realiza en los centros de Pembroke y Richmond Hill. La votación de sábado está disponible el 2 y el 9 de mayo de 8:00 a.m. a 5:00 p.m. Tenga en cuenta que la oficina de la Junta Electoral se mudó a Hendrix Park en Ellabell, pero no figura como centro de votación anticipada para esta primaria.",
       "source_url": "https://www.bryancountyga.gov/government/departments-a-g/elections/absentee-voting",
       "source_name": "Bryan County Board of Elections & Registration"
     },
@@ -278,6 +283,7 @@
         ]
       ],
       "notes": "Advance voting is held at the Burke County Courthouse. Saturday voting is available on May 2 and May 9 from 9 AM to 5 PM. Election Day voting on May 19 must be at the voter's assigned precinct.",
+      "notes_es": "La votación anticipada se realiza en el Burke County Courthouse. La votación de sábado está disponible el 2 y el 9 de mayo de 9 a.m. a 5 p.m. La votación del día de elección (19 de mayo) debe hacerse en el centro asignado al votante.",
       "source_url": "https://www.burkecounty-ga.gov/departments/board_of_elections_and_registration.php",
       "source_name": "Burke County Board of Elections and Registration"
     },
@@ -307,6 +313,7 @@
         ]
       ],
       "notes": "Early voting is held at the county courthouse in Morgan. Georgia law requires early voting to be available on the second and third Saturdays (May 2 and May 9, 2026) prior to the primary election.",
+      "notes_es": "La votación anticipada se realiza en el palacio de justicia del condado en Morgan. La ley de Georgia exige que la votación anticipada esté disponible el segundo y tercer sábado (2 y 9 de mayo de 2026) antes de la primaria.",
       "source_url": "https://calhouncountyga.com/offices/",
       "source_name": "Calhoun County Board of Elections"
     },
@@ -356,6 +363,7 @@
         ]
       ],
       "notes": "The Powell Park site is open for the final week of early voting only (May 11–15, 2026) from 8:30 am to 5:00 pm. Information is specific to the May 2026 Primary.",
+      "notes_es": "El centro de Powell Park abre solo durante la última semana de votación anticipada (del 11 al 15 de mayo de 2026) de 8:30 a.m. a 5:00 p.m. La información corresponde específicamente a la primaria de mayo de 2026.",
       "source_url": "https://www.carrollcountyga.gov/323/Elections-Voter-Registration",
       "source_name": "Carroll County Elections & Voter Registration"
     },
@@ -426,7 +434,8 @@
           "https://voter.chathamcountyga.gov/"
         ]
       ],
-      "notes": "Drop boxes are available at VR Annex, Mosquito Control, and Islands Library during early voting hours. General Primary Election Flyer"
+      "notes": "Drop boxes are available at VR Annex, Mosquito Control, and Islands Library during early voting hours. General Primary Election Flyer",
+      "notes_es": "Hay buzones disponibles en VR Annex, Mosquito Control e Islands Library durante el horario de votación anticipada. Volante de la Elección Primaria General."
     },
     "Chattahoochee": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -526,6 +535,7 @@
         ]
       ],
       "notes": "Elections Office open entire period; Library opens May 4; other sites open May 9. Sunday voting May 3 (1-3 PM) at Elections Office only. Extended hours (8 AM - 7 PM) available May 11-14 at all locations.",
+      "notes_es": "La Oficina Electoral está abierta todo el periodo; la biblioteca abre el 4 de mayo; los demás centros abren el 9 de mayo. Votación dominical el 3 de mayo (1 a 3 p.m.) solo en la Oficina Electoral. Horario extendido (8 a.m. a 7 p.m.) disponible del 11 al 14 de mayo en todos los centros.",
       "source_url": "https://www.accgov.com/advancevoting",
       "source_name": "Athens-Clarke County Elections Department"
     },
@@ -651,6 +661,7 @@
         ]
       ],
       "notes": "★ = also open Sundays",
+      "notes_es": "★ = también abre los domingos.",
       "sources": [
         [
           "Cobb County Elections",
@@ -684,6 +695,7 @@
         ]
       ],
       "notes": "Early voting is held on the second floor of the Courthouse Annex in Room 201. Saturday voting is available on May 2 and May 9 from 8 a.m. to 5 p.m. No Sunday voting is listed.",
+      "notes_es": "La votación anticipada se realiza en el segundo piso del Courthouse Annex, en la sala 201. La votación de sábado está disponible el 2 y el 9 de mayo de 8 a.m. a 5 p.m. No se ha anunciado votación dominical.",
       "source_url": "https://www.colquittcountyga.gov/elections/",
       "source_name": "Colquitt County Elections"
     },
@@ -710,7 +722,8 @@
           "https://www.columbiacountyga.gov/DocumentCenter/View/9248/Early-and-Absentee-Voting---May-2026"
         ]
       ],
-      "notes": "Advance voting is available on two Saturdays (May 2 and May 9) from 9:00 AM to 5:00 PM."
+      "notes": "Advance voting is available on two Saturdays (May 2 and May 9) from 9:00 AM to 5:00 PM.",
+      "notes_es": "La votación anticipada está disponible dos sábados (2 y 9 de mayo) de 9:00 a.m. a 5:00 p.m."
     },
     "Cook": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -910,6 +923,7 @@
         ]
       ],
       "notes": "Early voting is held at the Board of Elections office, which also serves as the Vienna voting precinct. The office is closed for lunch daily from 12:00 PM to 1:00 PM. Saturday voting is mandatory on May 2 and May 9 per Georgia state law.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta Electoral, que también funciona como centro de votación de Vienna. La oficina cierra para almuerzo todos los días de 12:00 p.m. a 1:00 p.m. La votación de sábado es obligatoria el 2 y el 9 de mayo según la ley estatal de Georgia.",
       "source_url": "https://doolycountyga.com/elections/",
       "source_name": "Dooly County Elections Office"
     },
@@ -923,6 +937,7 @@
         ]
       ],
       "notes": "All early voting in Dougherty County is held at the Riverfront Resource Center (Candy Room). Extended hours are offered until 7 p.m. on the final two Thursdays of the early voting period. Sat voting is held on the second and third Saturdays.",
+      "notes_es": "Toda la votación anticipada en Dougherty County se realiza en el Riverfront Resource Center (Candy Room). Hay horario extendido hasta las 7 p.m. los dos últimos jueves del periodo. La votación de sábado se realiza el segundo y tercer sábado.",
       "source_url": "https://www.dougherty.ga.us/Government/Dougherty-County-Departments/Voter-Registration-and-Elections",
       "source_name": "Dougherty County Elections"
     },
@@ -960,6 +975,7 @@
         ]
       ],
       "notes": "Between 9:30 AM and 4:30 PM, voters with a physical disability or who are 75 years of age and older may move to the front of the line. The Douglas County Courthouse also serves as an absentee ballot drop-off location. No Sunday voting hours were listed on the official schedule.",
+      "notes_es": "Entre las 9:30 a.m. y las 4:30 p.m., los votantes con discapacidad física o de 75 años o más pueden pasar al frente de la fila. El Douglas County Courthouse también funciona como punto de entrega de boletas por correo. No se ha anunciado votación dominical en el calendario oficial.",
       "source_url": "https://www.douglascountyga.gov/843/Early-In-Person",
       "source_name": "Douglas County Board of Elections & Registration"
     },
@@ -973,6 +989,7 @@
         ]
       ],
       "notes": "Includes mandatory Saturday voting on May 2 and May 9 from 9:00 AM to 5:00 PM. No Sunday voting mentioned.",
+      "notes_es": "Incluye votación obligatoria de sábado el 2 y el 9 de mayo de 9:00 a.m. a 5:00 p.m. No se menciona votación dominical.",
       "source_url": "https://www.earlycountyga.org/elections-registration",
       "source_name": "Early County Elections & Registration"
     },
@@ -986,6 +1003,7 @@
         ]
       ],
       "notes": "Early voting includes two Saturdays (May 2 and May 9) from 9 a.m. to 5 p.m. A ballot drop box is located in the Elections office lobby for returning mail ballots in person during voting hours.",
+      "notes_es": "La votación anticipada incluye dos sábados (2 y 9 de mayo) de 9 a.m. a 5 p.m. Hay un buzón en el vestíbulo de la Oficina Electoral para devolver boletas por correo en persona durante el horario de votación.",
       "source_url": "https://echolscountyga.com/registrar-vote/election-notices/",
       "source_name": "Echols County Elections Notice"
     },
@@ -1091,6 +1109,7 @@
         ]
       ],
       "notes": "Sunday voting is available on May 3rd from 12:00 PM to 4:00 PM only at the Fayette Elections Office and the Peachtree City Library. Early voting concludes at 5:00 PM on Friday, May 15.",
+      "notes_es": "La votación dominical está disponible el 3 de mayo de 12:00 p.m. a 4:00 p.m. solo en la Fayette Elections Office y la Peachtree City Library. La votación anticipada termina a las 5:00 p.m. del viernes 15 de mayo.",
       "source_url": "https://fayettecountyga.gov/Documents/Departments/Elections/Advanced%20Voting%20-%20May%202026%20General%20Primary%20&%20Nonpartisan%20Election.pdf?t=202603101440470",
       "source_name": "[Fayette County Elections](https://fayettecountyga.gov/departments/elections/index.php)"
     },
@@ -1137,7 +1156,8 @@
           "https://www.forsythco.com/Departments-Offices/Voter-Registrations-Elections/Current-Election"
         ]
       ],
-      "notes": "Only the Voter Registrations & Elections Office is open during the first week (April 27 – May 3); all four locations are open May 4 – May 15. No voting on Sunday, May 10."
+      "notes": "Only the Voter Registrations & Elections Office is open during the first week (April 27 – May 3); all four locations are open May 4 – May 15. No voting on Sunday, May 10.",
+      "notes_es": "Solo la Voter Registrations & Elections Office está abierta durante la primera semana (del 27 de abril al 3 de mayo); los cuatro centros abren del 4 al 15 de mayo. No hay votación el domingo 10 de mayo."
     },
     "Franklin": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1321,6 +1341,7 @@
         ]
       ],
       "notes": "Early voting includes mandatory Saturday voting on May 2 and May 9, 2026. No Sunday voting is listed.",
+      "notes_es": "La votación anticipada incluye votación obligatoria de sábado el 2 y el 9 de mayo de 2026. No se ha anunciado votación dominical.",
       "source_url": "https://www.glascockcountyga.com/elections/page/general-primary-election-information",
       "source_name": "Glascock County Board of Elections"
     },
@@ -1483,7 +1504,8 @@
           "https://www.hallcounty.org/249/Elections"
         ]
       ],
-      "notes": "Spout Springs Library and Murrayville Library locations open starting May 4. A ballot drop box is available at the Hall County Government Center (2875 Browns Bridge Rd, Gainesville, GA 30504) during early voting dates and hours."
+      "notes": "Spout Springs Library and Murrayville Library locations open starting May 4. A ballot drop box is available at the Hall County Government Center (2875 Browns Bridge Rd, Gainesville, GA 30504) during early voting dates and hours.",
+      "notes_es": "Los centros de Spout Springs Library y Murrayville Library abren a partir del 4 de mayo. Hay un buzón en el Hall County Government Center (2875 Browns Bridge Rd, Gainesville, GA 30504) durante las fechas y horarios de votación anticipada."
     },
     "Hancock": {
       "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p (TBC)",
@@ -1495,6 +1517,7 @@
         ]
       ],
       "notes": "Hancock County typically utilizes the Youth Center (also known as the Youth Opportunity Center or Skating Rink) as its primary early voting location. While the Board of Elections office is located at 9091 E. Broad St, official voting records and past election cycles (including the 2022 and 2024 cycles) identify the Youth Center as the designated advance voting site. Official Saturday voting is required by Georgia law on May 2 and May 9, 2026, typically following weekday hours. No Sunday voting was indicated.",
+      "notes_es": "Hancock County normalmente utiliza el Youth Center (también conocido como Youth Opportunity Center o Skating Rink) como su centro principal de votación anticipada. Aunque la oficina de la Junta Electoral está en 9091 E. Broad St, los registros oficiales y los ciclos electorales anteriores (incluidos los de 2022 y 2024) identifican el Youth Center como el centro de votación anticipada designado. La votación oficial de sábado es obligatoria por ley de Georgia el 2 y el 9 de mayo de 2026, generalmente con el mismo horario de los días entre semana. No se ha anunciado votación dominical.",
       "source_url": "https://www.hancockcountyga.gov/board-of-elections",
       "source_name": "Hancock County Board of Elections"
     },
@@ -1597,7 +1620,8 @@
           "https://www.henrycountyga.gov/35/Services?contentId=46065aed-3ad9-43f4-92a6-1a00eed7e43b"
         ]
       ],
-      "notes": "Sunday voting is held on May 3 from 1p–5p. No voting on Sunday, May 10 (Mother's Day)."
+      "notes": "Sunday voting is held on May 3 from 1p–5p. No voting on Sunday, May 10 (Mother's Day).",
+      "notes_es": "La votación dominical se realiza el 3 de mayo de 1 p.m. a 5 p.m. No hay votación el domingo 10 de mayo (Día de la Madre)."
     },
     "Houston": {
       "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & May 9: 9a–5p · Closed Sundays",
@@ -1626,7 +1650,8 @@
           "https://www.houstoncountyga.gov/residents/early-voting.cms"
         ]
       ],
-      "notes": "Drop box available during early voting hours only. Absentee ballots may be returned to the Board of Elections office during early voting hours."
+      "notes": "Drop box available during early voting hours only. Absentee ballots may be returned to the Board of Elections office during early voting hours.",
+      "notes_es": "Buzón disponible solo durante el horario de votación anticipada. Las boletas por correo pueden devolverse en la oficina de la Junta Electoral durante el horario de votación anticipada."
     },
     "Irwin": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1702,6 +1727,7 @@
         ]
       ],
       "notes": "Early voting is conducted at the Board of Elections office; the office remains open during lunch. Mandatory Saturday voting is held on May 2 and May 9 from 9 AM to 5 PM.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta Electoral; la oficina permanece abierta durante el almuerzo. La votación obligatoria de sábado se realiza el 2 y el 9 de mayo de 9 a.m. a 5 p.m.",
       "source_url": "https://www.jeffersoncountyga.gov/DocumentCenter/View/1029/Public-Notice-Advanced-Voting-May-2026",
       "source_name": "Jefferson County Board of Elections"
     },
@@ -1831,6 +1857,7 @@
         ]
       ],
       "notes": "Early voting includes two Saturdays (May 2 and May 9) from 9 a.m. to 5 p.m. No Sunday voting mentioned. Official 2026 primary sites confirmed via county notice.",
+      "notes_es": "La votación anticipada incluye dos sábados (2 y 9 de mayo) de 9 a.m. a 5 p.m. No se menciona votación dominical. Los centros oficiales de la primaria de 2026 fueron confirmados mediante aviso del condado.",
       "source_url": "https://www.libertycountyga.gov/323/Elections-Registration",
       "source_name": "Liberty County Elections & Registration"
     },
@@ -1844,6 +1871,7 @@
         ]
       ],
       "notes": "Early voting hours are typically 8:00 AM – 5:00 PM on weekdays, but are extended to 6:00 PM on Tuesday April 28, Tuesday May 5, and the final week (May 12–14). Saturday voting is available on May 2 and May 9 from 9:00 AM – 5:00 PM. The Recreation Center Gym is the designated advance voting location and is located within the Lincoln Center complex.",
+      "notes_es": "El horario de votación anticipada es generalmente de 8:00 a.m. a 5:00 p.m. de lunes a viernes, pero se extiende hasta las 6:00 p.m. el martes 28 de abril, el martes 5 de mayo y la última semana (del 12 al 14 de mayo). La votación de sábado está disponible el 2 y el 9 de mayo de 9:00 a.m. a 5:00 p.m. El Recreation Center Gym es el centro de votación anticipada designado y está dentro del complejo Lincoln Center.",
       "source_url": "https://www.lincolncountyga.com/elections",
       "source_name": "Lincoln County Board of Elections"
     },
@@ -1873,6 +1901,7 @@
         ]
       ],
       "notes": "This location (the \"old Georgia Power building\") is the primary early voting site for Lowndes County in 2026. Weekend voting includes both Saturdays and Sundays during the early voting period. According to official Lowndes County information, voters from all precincts may vote at this location. Hours are based on the announced schedule for the concurrent Special Election.",
+      "notes_es": "Este centro (el \"viejo edificio de Georgia Power\") es el principal centro de votación anticipada de Lowndes County en 2026. La votación de fin de semana incluye sábados y domingos durante el periodo de votación anticipada. Según información oficial de Lowndes County, los votantes de todos los precintos pueden votar en este centro. Los horarios se basan en el calendario anunciado para la elección especial concurrente.",
       "source_url": "https://www.lowndescounty.com/222/Polling-Locations",
       "source_name": "Lowndes County Elections, Valdosta Today"
     },
@@ -1902,6 +1931,7 @@
         ]
       ],
       "notes": "Early voting is held at the Board of Elections office in the Macon County Annex building. This is the primary and typically the only early voting location for the county. Dates and locations are based on the official county website and state primary schedule.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta Electoral, en el edificio Macon County Annex. Este es el centro principal y normalmente único de votación anticipada del condado. Las fechas y los centros se basan en el sitio web oficial del condado y el calendario estatal de la primaria.",
       "source_url": "https://www.maconcountyga.gov/board-of-elections-and-registration.cfm",
       "source_name": "Macon County Board of Elections and Registration"
     },
@@ -1951,6 +1981,7 @@
         ]
       ],
       "notes": "Early voting is conducted at both the Thomson and Dearing polling locations. Non-partisan positions and a SPLOST question are also on the ballot. Voting for candidates and SPLOST occurs on separate machines. No Sunday voting is listed.",
+      "notes_es": "La votación anticipada se realiza en los centros de Thomson y Dearing. La boleta también incluye cargos no partidistas y una consulta SPLOST. La votación por candidatos y por SPLOST se realiza en máquinas separadas. No se ha anunciado votación dominical.",
       "source_url": "https://www.thomson-mcduffie.gov/259/Elections-Registration",
       "source_name": "McDuffie County Elections & Registration"
     },
@@ -2012,6 +2043,7 @@
         ]
       ],
       "notes": "Early voting includes two Saturdays: May 2 and May 9, 2026. No Sunday voting mentioned.",
+      "notes_es": "La votación anticipada incluye dos sábados: el 2 y el 9 de mayo de 2026. No se menciona votación dominical.",
       "source_url": "https://www.mitchellcountyga.net/board-of-elections-registration/",
       "source_name": "Mitchell County Board of Elections & Registration"
     },
@@ -2073,6 +2105,7 @@
         ]
       ],
       "notes": "Early voting is held at the Murray County Recreation Center, not at the Courthouse Annex. Weekend voting is available on the two mandatory Saturdays (May 2 and May 9, 2026). The drop box for absentee ballots is located at the Board of Elections office in the Courthouse Annex (121 N 4th Ave, Chatsworth).",
+      "notes_es": "La votación anticipada se realiza en el Murray County Recreation Center, no en el Courthouse Annex. La votación de fin de semana está disponible los dos sábados obligatorios (2 y 9 de mayo de 2026). El buzón para boletas por correo está en la oficina de la Junta Electoral en el Courthouse Annex (121 N 4th Ave, Chatsworth).",
       "source_url": "https://www.murraycountyga.org/77/Elections",
       "source_name": "Murray County Elections, Georgia Secretary of State My Voter Page, Murray County Commissioner Facebook"
     },
@@ -2099,7 +2132,8 @@
           "https://columbusga.gov/elections/"
         ]
       ],
-      "notes": "Early voting hours are expanded to 7 a.m. to 7 p.m. daily, including weekends, for the May 19 primary. A ballot drop box is available at the City Services Center during early voting hours only."
+      "notes": "Early voting hours are expanded to 7 a.m. to 7 p.m. daily, including weekends, for the May 19 primary. A ballot drop box is available at the City Services Center during early voting hours only.",
+      "notes_es": "El horario de votación anticipada se amplía de 7 a.m. a 7 p.m. todos los días, incluidos los fines de semana, para la primaria del 19 de mayo. Hay un buzón en el City Services Center solo durante el horario de votación anticipada."
     },
     "Newton": {
       "hours_summary": "Mon–Fri 8a–5p (May 13–15: 8a–7p) · Sat May 2 & 9: 9a–5p",
@@ -2115,6 +2149,7 @@
         ]
       ],
       "notes": "The official ballot drop box is located at the Board of Elections Office (8134 Geiger St NW, Covington, GA 30014). Early voting began April 27 and concludes May 15. Sunday voting is not scheduled. Newton County BOE, Newton County Government Facebook",
+      "notes_es": "El buzón oficial de boletas está en la oficina de la Junta Electoral (8134 Geiger St NW, Covington, GA 30014). La votación anticipada comenzó el 27 de abril y termina el 15 de mayo. No hay votación dominical programada. Newton County BOE, Facebook del Newton County Government.",
       "source_url": "https://www.newtoncountyga.gov/169/Ways-to-Vote",
       "source_name": "Newton County Board of Elections"
     },
@@ -2185,7 +2220,8 @@
           "https://www.paulding.gov/1501/Advanced-Voting"
         ]
       ],
-      "notes": "Weeks 1 and 2 (including Saturdays) are at the Watson Government Complex ONLY. All six locations are open during the final week (May 11-15)."
+      "notes": "Weeks 1 and 2 (including Saturdays) are at the Watson Government Complex ONLY. All six locations are open during the final week (May 11-15).",
+      "notes_es": "Las semanas 1 y 2 (incluidos los sábados) son ÚNICAMENTE en el Watson Government Complex. Los seis centros abren durante la última semana (del 11 al 15 de mayo)."
     },
     "Peach": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2341,6 +2377,7 @@
         ]
       ],
       "notes": "Early voting is held at the Randolph County Government Center. A ballot dropbox is available inside the lobby during early voting hours (8:00 AM – 5:00 PM). Election Day is May 19, 2026.",
+      "notes_es": "La votación anticipada se realiza en el Randolph County Government Center. Hay un buzón dentro del vestíbulo durante el horario de votación anticipada (8:00 a.m. a 5:00 p.m.). El día de elección es el 19 de mayo de 2026.",
       "source_url": "https://www.randolphcountyga.com/board-of-elections-and-registration",
       "source_name": "Randolph County Board of Elections and Registration"
     },
@@ -2371,7 +2408,8 @@
           "https://www.augustaga.gov/2836/Advance-Voting-Location-Information"
         ]
       ],
-      "notes": "Sunday voting on May 3 is available ONLY at the Linda Beazley/Municipal Building location. An absentee ballot drop box is also available at the Municipal Building during early voting hours."
+      "notes": "Sunday voting on May 3 is available ONLY at the Linda Beazley/Municipal Building location. An absentee ballot drop box is also available at the Municipal Building during early voting hours.",
+      "notes_es": "La votación dominical del 3 de mayo está disponible ÚNICAMENTE en el centro Linda Beazley/Municipal Building. También hay un buzón para boletas por correo en el Municipal Building durante el horario de votación anticipada."
     },
     "Rockdale": {
       "hours_summary": "Mon–Fri 8a–5p (Apr 27 – May 12) · Sat May 2 & 9: 9a–5p · Sun May 3: 10a–3p · Wed–Fri May 13–15: 8a–7p",
@@ -2383,6 +2421,7 @@
         ]
       ],
       "notes": "Sunday voting is available on May 3 from 10 a.m. to 3 p.m. Extended evening hours until 7 p.m. are available during the final three days of early voting (May 13–15). This is the only early voting location in the county.",
+      "notes_es": "La votación dominical está disponible el 3 de mayo de 10 a.m. a 3 p.m. Hay horario extendido hasta las 7 p.m. los últimos tres días de votación anticipada (del 13 al 15 de mayo). Este es el único centro de votación anticipada del condado.",
       "source_url": "https://www.rockdalecountyga.gov/upcoming-elections/",
       "source_name": "Rockdale County Board of Elections"
     },
@@ -2412,6 +2451,7 @@
         ]
       ],
       "notes": "Includes Saturday voting on May 2 and May 9, and Sunday voting on May 3. Information is based on the official 2026 Election Information flyer posted by the county elections office.",
+      "notes_es": "Incluye votación de sábado el 2 y el 9 de mayo, y votación dominical el 3 de mayo. Información basada en el volante oficial de información electoral 2026 publicado por la oficina electoral del condado.",
       "source_url": "https://www.facebook.com/p/Screven-County-Board-of-Elections-61559312873474/",
       "source_name": "Screven County Board of Elections"
     },
@@ -2489,6 +2529,7 @@
         ]
       ],
       "notes": "Early voting is held at the Americus/Sumter Exposition Center. Saturday voting is available on May 2 and May 9 from 9:00 AM to 5:00 PM. No Sunday voting is listed. Absentee ballot applications are accepted until May 8, 2026.",
+      "notes_es": "La votación anticipada se realiza en el Americus/Sumter Exposition Center. La votación de sábado está disponible el 2 y el 9 de mayo de 9:00 a.m. a 5:00 p.m. No se ha anunciado votación dominical. Las solicitudes de boleta por correo se aceptan hasta el 8 de mayo de 2026.",
       "source_url": "https://www.sumtercountygaelections.us",
       "source_name": "Sumter County Board of Elections and Voter Registration"
     },
@@ -2502,6 +2543,7 @@
         ]
       ],
       "notes": "Early voting is conducted at the Board of Elections office. Saturday voting is available on May 2 and May 9, 2026. A ballot drop box is available inside the office during early voting hours.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta Electoral. La votación de sábado está disponible el 2 y el 9 de mayo de 2026. Hay un buzón dentro de la oficina durante el horario de votación anticipada.",
       "source_url": "https://www.talbotcountyga.org/board-elections-and-registration",
       "source_name": "Talbot County Board of Elections & Registration"
     },
@@ -2515,6 +2557,7 @@
         ]
       ],
       "notes": "Saturday voting is held on May 2 and May 9, 2026. Advanced voting is conducted at the county courthouse.",
+      "notes_es": "La votación de sábado se realiza el 2 y el 9 de mayo de 2026. La votación anticipada se realiza en el palacio de justicia del condado.",
       "source_url": "https://taliaferrocountyga.org/board-of-registrars/",
       "source_name": "Taliaferro County Board of Registrars, Georgia My Voter Page"
     },
@@ -2576,6 +2619,7 @@
         ]
       ],
       "notes": "Typical early voting hours in Georgia include mandatory Saturdays; for this primary, early voting runs April 27 to May 15, with locations and hours listed for the current week starting May 4. The main office is the primary advance voting site.",
+      "notes_es": "El horario típico de votación anticipada en Georgia incluye sábados obligatorios; para esta primaria, la votación anticipada va del 27 de abril al 15 de mayo, con los centros y horarios indicados para la semana actual a partir del 4 de mayo. La oficina principal es el centro principal de votación anticipada.",
       "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=TERRELL&page=advpollingplace",
       "source_name": "Georgia My Voter Page, Terrell County Board of Elections"
     },
@@ -2605,6 +2649,7 @@
         ]
       ],
       "notes": "A drop box is provided in the Elections office lobby to return mail ballots in person; ballots can also be dropped off at the office front counter or returned in the mail.",
+      "notes_es": "Hay un buzón en el vestíbulo de la Oficina Electoral para devolver boletas por correo en persona; las boletas también pueden entregarse en el mostrador de la oficina o devolverse por correo.",
       "source_url": "https://www.tiftcounty.org/departments/elections.php",
       "source_name": "Tift County Elections"
     },
@@ -2770,6 +2815,7 @@
         ]
       ],
       "notes": "Walton County has 3 permanent advance voting locations. The Meridian Park location also serves as an absentee ballot drop box site (available inside during voting hours only). Primary Runoff early voting is scheduled for June 8–12, 2026.",
+      "notes_es": "Walton County tiene 3 centros permanentes de votación anticipada. El centro de Meridian Park también funciona como buzón de boletas por correo (disponible adentro solo durante el horario de votación). La votación anticipada de la segunda vuelta primaria está programada del 8 al 12 de junio de 2026.",
       "source_url": "https://www.waltoncountyga.gov/285/Advance-Voting",
       "source_name": "Walton County Board of Elections"
     },
@@ -2815,6 +2861,7 @@
         ]
       ],
       "notes": "Advance voting is conducted solely at the Washington County Board of Elections office. Per Georgia law, early voting includes two mandatory Saturdays (May 2 and May 9).",
+      "notes_es": "La votación anticipada se realiza únicamente en la oficina de la Washington County Board of Elections. Por ley de Georgia, la votación anticipada incluye dos sábados obligatorios (2 y 9 de mayo).",
       "source_url": "https://www.washingtoncountyga.gov/203/Board-of-Elections-Registration",
       "source_name": "Washington County Board of Elections"
     },
@@ -2892,6 +2939,7 @@
         ]
       ],
       "notes": "Early voting is held only at the Board of Elections office in the Courthouse. Extended hours on Thursday, May 14th (8 AM - 7 PM).",
+      "notes_es": "La votación anticipada se realiza solo en la oficina de la Junta Electoral, en el palacio de justicia. Horario extendido el jueves 14 de mayo (8 a.m. a 7 p.m.).",
       "source_url": "https://www.whitfieldcountyga.com/government/departments/elections.php",
       "source_name": "Whitfield County Board of Elections"
     },
