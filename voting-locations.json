@@ -778,20 +778,18 @@
       ]
     },
     "Crisp": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Crisp County Government Center (Board of Elections Office)",
+          "210 S 7th St, Room 103, Cordele, GA 31015"
         ]
-      ]
+      ],
+      "notes": "A ballot dropbox is available inside the early voting location during voting hours. Voting is held in Room 103.",
+      "notes_es": "Hay un buzón para boletas dentro del centro de votación anticipada durante el horario de votación. La votación se realiza en la Sala 103.",
+      "source_url": "https://crispcounty.com/elections-voter-registration",
+      "source_name": "Crisp County Board of Elections, Georgia My Voter Page"
     },
     "Dade": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1040,20 +1038,18 @@
       ]
     },
     "Emanuel": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 8:30a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Emanuel County Elections Office",
+          "223 W Moring St, Suite 102, Swainsboro, GA 30401"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the county elections office. A ballot dropbox is available inside the building during early voting hours and closes May 15.",
+      "notes_es": "La votación anticipada se realiza en la oficina de elecciones del condado. Hay un buzón para boletas dentro del edificio durante el horario de votación anticipada y cierra el 15 de mayo.",
+      "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=EMANUEL&page=advpollingplace",
+      "source_name": "Georgia My Voter Page, Emanuel County Board of Elections"
     },
     "Evans": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1394,20 +1390,18 @@
       ]
     },
     "Greene": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Greene County Annex Early Voting",
+          "1180 C Weldon Smith Drive, Suite 109, Greensboro, GA 30642"
         ]
-      ]
+      ],
+      "notes": "Ballot dropbox is available inside the polling location during early voting hours. The site is open both Saturdays (May 2 and May 9).",
+      "notes_es": "Hay un buzón para boletas dentro del centro de votación durante el horario de votación anticipada. El sitio está abierto los dos sábados (2 y 9 de mayo).",
+      "source_url": "https://www.greenecountyga.gov/984/Vote-Early-In-Person",
+      "source_name": "Georgia My Voter Page, Greene County Board of Elections"
     },
     "Gwinnett": {
       "hours_summary": "Mon–Fri 7a–7p · Sat May 9: 9a–5p · Closed Sundays",
@@ -1732,20 +1726,18 @@
       "source_name": "Jefferson County Board of Elections"
     },
     "Jenkins": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "James Henry Administrative Building (Election and Registration Office)",
+          "833 East Winthrope Avenue, Millen, GA 30442"
         ]
-      ]
+      ],
+      "notes": "Drop box located inside the early voting site. No Sunday voting. Contact Election Supervisor Patricia Rich at 478-982-3985 for questions.",
+      "notes_es": "El buzón está dentro del centro de votación anticipada. No hay votación los domingos. Para preguntas, llame a la Supervisora de Elecciones Patricia Rich al 478-982-3985.",
+      "source_url": "https://www.jenkinscounty.net/notices",
+      "source_name": "Jenkins County Board of Elections and Registration"
     },
     "Johnson": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1952,20 +1944,18 @@
       ]
     },
     "Marion": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 8a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Marion County Board of Elections and Registration Office",
+          "100 E Burkhalter Ave, Buena Vista, GA 31803"
         ]
-      ]
+      ],
+      "notes": "Advance voting is held at the Board of Elections office. A ballot dropbox is available at this location.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta de Elecciones. Hay un buzón para boletas disponible en este lugar.",
+      "source_url": "https://www.marioncountyga.org/by-department/elections-and-registration/",
+      "source_name": "Georgia My Voter Page, Marion County Elections & Registration"
     },
     "McDuffie": {
       "hours_summary": "Mon–Sat Apr 27–May 2: 8:30a–6p; Mon–Sat May 4–9: 9a–5p; Mon–Fri May 11–15: 9a–5p",
@@ -2336,20 +2326,18 @@
       ]
     },
     "Quitman": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Quitman County Elections Office",
+          "37 Old School Road, Georgetown, GA 39854"
         ]
-      ]
+      ],
+      "notes": "The early voting site recently moved from the Courthouse to Old School Road. A drop box is located at the Courthouse (111 Main Street).",
+      "notes_es": "El sitio de votación anticipada se trasladó recientemente del Tribunal a Old School Road. Hay un buzón para boletas en el Tribunal (111 Main Street).",
+      "source_url": "https://www.gqc-ga.org/Default.asp?ID=121&pg=Elections",
+      "source_name": "Quitman County Board of Elections and Voter Registration, Georgia My Voter Page"
     },
     "Rabun": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2504,20 +2492,18 @@
       ]
     },
     "Stewart": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 8a-5p (closed for lunch 12-1p) · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Stewart County Board of Elections Office (Courthouse)",
+          "1764 Broad St, Lumpkin, GA 31815"
         ]
-      ]
+      ],
+      "notes": "The Elections Office is inside the Stewart County Courthouse. The office is closed daily for lunch from 12:00 PM to 1:00 PM.",
+      "notes_es": "La Oficina de Elecciones está dentro del Tribunal del Condado de Stewart. La oficina cierra todos los días para el almuerzo de 12:00 PM a 1:00 PM.",
+      "source_url": "https://stewartcountyga.gov/elections/index.html",
+      "source_name": "Stewart County Board of Elections, Georgia My Voter Page"
     },
     "Sumter": {
       "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p",
@@ -2734,20 +2720,18 @@
       ]
     },
     "Twiggs": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Twiggs County Board of Elections & Registrations Office",
+          "425 Railroad Street North, Rm 123, Jeffersonville, GA 31044"
         ]
-      ]
+      ],
+      "notes": "Voting is held in the courthouse, Room 123. The dropbox is at the front entrance with the security guard during early voting dates.",
+      "notes_es": "La votación se realiza en el tribunal, Sala 123. El buzón está en la entrada principal con el guardia de seguridad durante las fechas de votación anticipada.",
+      "source_url": "https://www.twiggscounty.us/notice-l-a-testing-computation-canvassing-and-absentee-voting-may-192026-general-primary-election-nonpartisan-election/",
+      "source_name": "Twiggs County Board of Elections & Registrations"
     },
     "Union": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2836,20 +2820,18 @@
       ]
     },
     "Warren": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 8a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Warren County Board of Elections Office (Community Service Building)",
+          "48 Warren Street, Warrenton, GA 30828"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Board of Elections office. No official drop box is available in the county: voters may bring ballots into the office.",
+      "notes_es": "La votación anticipada se realiza en la oficina de la Junta de Elecciones. No hay buzón oficial en el condado: los votantes pueden entregar las boletas dentro de la oficina.",
+      "source_url": "https://www.warrencountyga.com/elections.html",
+      "source_name": "Warren County Board of Elections, Georgia My Voter Page"
     },
     "Washington": {
       "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p",
@@ -2976,20 +2958,18 @@
       ]
     },
     "Wilkinson": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon-Fri 9a-5p · Sat May 2: 9a-5p · Sat May 9: 9a-5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Wilkinson County Courthouse (Elections and Registrar Office, Rm 133)",
+          "100 Bacon Street, Irwinton, GA 31042"
         ]
-      ]
+      ],
+      "notes": "Advance voting is held in the Elections and Registrar Office (Room 133) of the courthouse. Dropbox is available during voting hours. No Sunday voting.",
+      "notes_es": "La votación anticipada se realiza en la Oficina de Elecciones y Registro (Sala 133) del tribunal. El buzón está disponible durante el horario de votación. No hay votación los domingos.",
+      "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=WILKINSON&page=advpollingplace",
+      "source_name": "Georgia My Voter Page, Wilkinson County Board of Elections"
     },
     "Worth": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
