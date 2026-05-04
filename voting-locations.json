@@ -20,20 +20,17 @@
       ]
     },
     "Atkinson": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Atkinson County Board of Election",
+          "664 Austin Ave E, Pearson, GA 31642"
         ]
-      ]
+      ],
+      "notes": "Mandatory Saturday voting held May 2 and May 9. Dropbox available at the early voting location during voting hours.",
+      "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=ATKINSON&page=advpollingplace",
+      "source_name": "Georgia My Voter Page, Atkinson County Board of Elections"
     },
     "Bacon": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -68,20 +65,17 @@
       ]
     },
     "Baldwin": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8:30a–5p · Sat 9a–4p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Baldwin County Government Center",
+          "1601 N. Columbia Street, Milledgeville, GA 31061"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Baldwin County Government Center; use the left side building entrance only. The schedule includes two Saturdays (May 2 and May 9).",
+      "source_url": "https://www.baldwincountyga.com/voting-elections/page/elections-voter-registration",
+      "source_name": "Baldwin County Elections & Voter Registration"
     },
     "Banks": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -681,20 +675,17 @@
       ]
     },
     "Colquitt": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 8a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Courthouse Annex, Room 201",
+          "101 East Central Ave, Room 201, Moultrie, GA 31768"
         ]
-      ]
+      ],
+      "notes": "Early voting is held on the second floor of the Courthouse Annex in Room 201. Saturday voting is available on May 2 and May 9 from 8 a.m. to 5 p.m. No Sunday voting is listed.",
+      "source_url": "https://www.colquittcountyga.gov/elections/",
+      "source_name": "Colquitt County Elections"
     },
     "Columbia": {
       "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & May 9: 9a–5p",
@@ -910,36 +901,30 @@
       ]
     },
     "Dooly": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p (closed 12p–1p) · Sat May 2 & 9: 9a–4p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Dooly County Board of Elections and Registration",
+          "402 Hawkinsville Highway, Vienna, GA 31092"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Board of Elections office, which also serves as the Vienna voting precinct. The office is closed for lunch daily from 12:00 PM to 1:00 PM. Saturday voting is mandatory on May 2 and May 9 per Georgia state law.",
+      "source_url": "https://doolycountyga.com/elections/",
+      "source_name": "Dooly County Elections Office"
     },
     "Dougherty": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p · Extended: Thu May 7 & 14: 9a–7p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Riverfront Resource Center (Candy Room)",
+          "125 Pine Ave, Albany, GA 31701"
         ]
-      ]
+      ],
+      "notes": "All early voting in Dougherty County is held at the Riverfront Resource Center (Candy Room). Extended hours are offered until 7 p.m. on the final two Thursdays of the early voting period. Sat voting is held on the second and third Saturdays.",
+      "source_url": "https://www.dougherty.ga.us/Government/Dougherty-County-Departments/Voter-Registration-and-Elections",
+      "source_name": "Dougherty County Elections"
     },
     "Douglas": {
       "hours_summary": "Mon–Fri 8:30a–6:00p · Sat May 2 & May 9: 9:00a–5:00p",
@@ -979,36 +964,30 @@
       "source_name": "Douglas County Board of Elections & Registration"
     },
     "Early": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Early Co Board of Elections & Registration",
+          "17 McDonald Ave, Blakely, GA 39823"
         ]
-      ]
+      ],
+      "notes": "Includes mandatory Saturday voting on May 2 and May 9 from 9:00 AM to 5:00 PM. No Sunday voting mentioned.",
+      "source_url": "https://www.earlycountyga.org/elections-registration",
+      "source_name": "Early County Elections & Registration"
     },
     "Echols": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Echols County Elections Office",
+          "110 Highway 94 E, Statenville, GA 31648"
         ]
-      ]
+      ],
+      "notes": "Early voting includes two Saturdays (May 2 and May 9) from 9 a.m. to 5 p.m. A ballot drop box is located in the Elections office lobby for returning mail ballots in person during voting hours.",
+      "source_url": "https://echolscountyga.com/registrar-vote/election-notices/",
+      "source_name": "Echols County Elections Notice"
     },
     "Effingham": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1839,20 +1818,21 @@
       ]
     },
     "Liberty": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Sat 9a–5p (Final week Mon–Fri 9a–5p)",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Liberty County Voter Registration Office (Multi-Purpose Room)",
+          "100 Main St, Suite 1600, Hinesville, GA 31313"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Liberty County Community Complex (John D. McIver Annex)",
+          "9397 E Oglethorpe Hwy, Midway, GA 31320"
         ]
-      ]
+      ],
+      "notes": "Early voting includes two Saturdays (May 2 and May 9) from 9 a.m. to 5 p.m. No Sunday voting mentioned. Official 2026 primary sites confirmed via county notice.",
+      "source_url": "https://www.libertycountyga.gov/323/Elections-Registration",
+      "source_name": "Liberty County Elections & Registration"
     },
     "Lincoln": {
       "hours_summary": "Mon–Fri 8a–5p (extended to 6p on select days) · Sat May 2 & 9: 9a–5p",
@@ -2084,20 +2064,17 @@
       ]
     },
     "Murray": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–4p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Murray County Recreation Center (Veterans Memorial Park)",
+          "651 Hyden Tyler Rd, Chatsworth, GA 30705"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Murray County Recreation Center, not at the Courthouse Annex. Weekend voting is available on the two mandatory Saturdays (May 2 and May 9, 2026). The drop box for absentee ballots is located at the Board of Elections office in the Courthouse Annex (121 N 4th Ave, Chatsworth).",
+      "source_url": "https://www.murraycountyga.org/77/Elections",
+      "source_name": "Murray County Elections, Georgia Secretary of State My Voter Page, Murray County Commissioner Facebook"
     },
     "Muscogee": {
       "hours_summary": "Daily 7a–7p (including Saturdays and Sundays)",
@@ -2619,20 +2596,17 @@
       ]
     },
     "Tift": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Tift County Elections Office",
+          "222 Chesnutt Ave, Building B, Tifton, GA 31794"
         ]
-      ]
+      ],
+      "notes": "A drop box is provided in the Elections office lobby to return mail ballots in person; ballots can also be dropped off at the office front counter or returned in the mail.",
+      "source_url": "https://www.tiftcounty.org/departments/elections.php",
+      "source_name": "Tift County Elections"
     },
     "Toombs": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
