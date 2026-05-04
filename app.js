@@ -1,4 +1,4 @@
-/* Georgia 2026 Primary — Early Voting Map (bilingual EN/ES) */
+/* Georgia 2026 Primary: Early Voting Map (bilingual EN/ES) */
 (async function () {
   const svg = d3.select('#ga-map');
   const tooltip = document.getElementById('tooltip');
@@ -175,8 +175,8 @@
     const offices = (s.ballot_offices || []).map(o => `
       <li>
         <div class="office-name">${escape(o.name)}</div>
-        <div class="office-what">${escape(o.what)}</div>
-        <div class="office-why">${escape(o.why)}</div>
+        <div class="office-what"><span class="office-label">${escape(s.ballot_label_duties)}</span> ${escape(o.what)}</div>
+        <div class="office-why"><span class="office-label">${escape(s.ballot_label_importance)}</span> ${escape(o.why)}</div>
       </li>`).join('');
     return `
       <details class="ballot-explainer">
