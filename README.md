@@ -11,9 +11,13 @@ counties for site details.
 ## What's in it
 
 - **Interactive map** of all 159 Georgia counties (D3 + TopoJSON)
-- **Detailed site lists** for the 6 largest metro Atlanta counties (Fulton, DeKalb,
-  Gwinnett, Cobb, Clayton, Cherokee) — names, addresses, and directions links
-- **Statewide fallback** — every other county links to Georgia's official
+- **Detailed site lists** for the 16 largest Georgia counties — names, addresses,
+  hours, special notes (Sunday voting, weekend-only sites), and directions links:
+  - **Metro Atlanta:** Fulton, DeKalb, Gwinnett, Cobb, Clayton, Cherokee, Henry,
+    Forsyth, Paulding, Coweta
+  - **Outside metro Atlanta:** Chatham (Savannah), Richmond (Augusta),
+    Muscogee (Columbus), Hall (Gainesville), Houston (Warner Robins), Columbia
+- **Statewide fallback** — the remaining 143 counties link to Georgia's official
   My Voter Page early-voting lookup
 - **Hours, dates, Election-Day reminders** built into every county view
 - **Voter help line** (866-OUR-VOTE) on every panel
@@ -44,12 +48,27 @@ counties for site details.
 
 ## Data sources
 
+Metro Atlanta:
 - [Fulton County Elections](https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations)
 - [DeKalb Voter Registration & Elections](https://www.dekalbvotes.com/)
 - [Gwinnett County Elections](https://www.gwinnettcounty.com/government/departments/elections/voting/advance)
 - [Cobb County Elections](https://www.cobbcounty.org/elections)
 - [Clayton County Elections](https://www.claytoncountyga.gov/government/elections-and-registration/)
 - [Cherokee County Elections](https://cherokeegavotes.com/advance-voting-2/)
+- [Henry County Elections](https://www.henrycountyga.gov/35/Services)
+- [Forsyth County Elections](https://www.forsythco.com/Departments-Offices/Voter-Registrations-Elections)
+- [Paulding County Elections](https://www.paulding.gov/1501/Advanced-Voting)
+- [Coweta County Elections](https://www.coweta.ga.us/departments-services/departments-a-e/elections-and-voter-registration-7700)
+
+Outside metro Atlanta:
+- [Chatham County Board of Registrars](https://voter.chathamcountyga.gov/)
+- [Augusta-Richmond County Elections](https://www.augustaga.gov/2836/Advance-Voting-Location-Information)
+- [Muscogee County Elections](https://columbusga.gov/elections/)
+- [Hall County Elections](https://www.hallcounty.org/249/Elections)
+- [Houston County Board of Elections](https://www.houstoncountyga.gov/residents/early-voting.cms)
+- [Columbia County Elections](https://www.columbiacountyga.gov/government/elections-board-of)
+
+Statewide:
 - [Georgia Secretary of State — My Voter Page](https://mvp.sos.ga.gov)
 - [Georgia.gov — Vote Early in Person](https://georgia.gov/vote-early-person)
 

@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Build voting-locations.json from sourced + placeholder county data."""
+"""Build voting-locations.json from sourced + placeholder county data.
+
+NOTE: This script regenerates the file from scratch using the DETAILED dict
+below. As of the latest update, additional counties (Chatham, Forsyth, Henry,
+Hall, Richmond, Muscogee, Paulding, Houston, Columbia, Coweta) were merged
+into voting-locations.json directly via a separate research pipeline.
+Running this script will overwrite that data with only the 6 metros below.
+If you re-run it, also re-merge the additional counties.
+"""
 import json
 
 # Six counties with detailed data sourced for the 2026 primary
