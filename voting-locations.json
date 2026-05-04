@@ -242,20 +242,21 @@
       ]
     },
     "Bryan": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 8a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Harn Community Center",
+          "91 Lanier St, Pembroke, GA 31321"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Richmond Hill Recreation Complex",
+          "508 Timber Trl, Richmond Hill, GA 31324"
         ]
-      ]
+      ],
+      "notes": "Early voting is held at the Pembroke and Richmond Hill locations. Saturday voting is available on May 2 and May 9 from 8:00 AM to 5:00 PM. Note that the Board of Elections office has moved to a new location at Hendrix Park in Ellabell, but it is not listed as an early voting site for this primary.",
+      "source_url": "https://www.bryancountyga.gov/government/departments-a-g/elections/absentee-voting",
+      "source_name": "Bryan County Board of Elections & Registration"
     },
     "Bulloch": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -274,20 +275,17 @@
       ]
     },
     "Burke": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Burke County Courthouse",
+          "602 N. Liberty Street, Waynesboro, Georgia 30830"
         ]
-      ]
+      ],
+      "notes": "Advance voting is held at the Burke County Courthouse. Saturday voting is available on May 2 and May 9 from 9 AM to 5 PM. Election Day voting on May 19 must be at the voter's assigned precinct.",
+      "source_url": "https://www.burkecounty-ga.gov/departments/board_of_elections_and_registration.php",
+      "source_name": "Burke County Board of Elections and Registration"
     },
     "Butts": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1338,20 +1336,17 @@
       ]
     },
     "Glascock": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Glascock County Board of Elections (Precinct 1)",
+          "676 West Main Street, Gibson, GA 30810"
         ]
-      ]
+      ],
+      "notes": "Early voting includes mandatory Saturday voting on May 2 and May 9, 2026. No Sunday voting is listed.",
+      "source_url": "https://www.glascockcountyga.com/elections/page/general-primary-election-information",
+      "source_name": "Glascock County Board of Elections"
     },
     "Glynn": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1725,20 +1720,17 @@
       ]
     },
     "Jefferson": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 2 & May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Jefferson County Board of Elections Office (Jefferson County Office Park)",
+          "1200 School Street, Louisville, GA 30434"
         ]
-      ]
+      ],
+      "notes": "Early voting is conducted at the Board of Elections office; the office remains open during lunch. Mandatory Saturday voting is held on May 2 and May 9 from 9 AM to 5 PM.",
+      "source_url": "https://www.jeffersoncountyga.gov/DocumentCenter/View/1029/Public-Notice-Advanced-Voting-May-2026",
+      "source_name": "Jefferson County Board of Elections"
     },
     "Jenkins": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1869,20 +1861,17 @@
       ]
     },
     "Lincoln": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 8a–5p (extended to 6p on select days) · Sat May 2 & 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Recreation Center Gym (Lincoln Center)",
+          "1962 Rowland York Drive, Lincolnton, GA 30817"
         ]
-      ]
+      ],
+      "notes": "Early voting hours are typically 8:00 AM – 5:00 PM on weekdays, but are extended to 6:00 PM on Tuesday April 28, Tuesday May 5, and the final week (May 12–14). Saturday voting is available on May 2 and May 9 from 9:00 AM – 5:00 PM. The Recreation Center Gym is the designated advance voting location and is located within the Lincoln Center complex.",
+      "source_url": "https://www.lincolncountyga.com/elections",
+      "source_name": "Lincoln County Board of Elections"
     },
     "Long": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -1978,20 +1967,21 @@
       ]
     },
     "McDuffie": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Sat Apr 27–May 2: 8:30a–6p; Mon–Sat May 4–9: 9a–5p; Mon–Fri May 11–15: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+          "Precinct on Main (Old THS Gym)",
+          "525 Main Street, Thomson, GA 30824"
         ],
         [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Dearing Community Center",
+          "4614 Augusta Hwy, Dearing, GA 30808"
         ]
-      ]
+      ],
+      "notes": "Early voting is conducted at both the Thomson and Dearing polling locations. Non-partisan positions and a SPLOST question are also on the ballot. Voting for candidates and SPLOST occurs on separate machines. No Sunday voting is listed.",
+      "source_url": "https://www.thomson-mcduffie.gov/259/Elections-Registration",
+      "source_name": "McDuffie County Elections & Registration"
     },
     "McIntosh": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2042,20 +2032,17 @@
       ]
     },
     "Mitchell": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
-      "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "hours_summary": "Mon–Sat (Apr 27 – May 9) 8a–5p; Mon–Fri (May 11 – 15) 8a–5p",
+      "dates": "April 27 – May 15, 2026",
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Mitchell County Elections Office",
+          "32 Court Ave, Camilla, GA 31730"
         ]
-      ]
+      ],
+      "notes": "Early voting includes two Saturdays: May 2 and May 9, 2026. No Sunday voting mentioned.",
+      "source_url": "https://www.mitchellcountyga.net/board-of-elections-registration/",
+      "source_name": "Mitchell County Board of Elections & Registration"
     },
     "Monroe": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
@@ -2630,20 +2617,17 @@
       ]
     },
     "Terrell": {
-      "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
+      "hours_summary": "Mon–Fri 9a–5p · Sat May 9: 9a–5p",
       "dates": "Apr 27 – May 15, 2026",
-      "locations": [],
-      "placeholder": true,
-      "sources": [
+      "locations": [
         [
-          "My Voter Page",
-          "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
-        ],
-        [
-          "Georgia.gov early voting",
-          "https://georgia.gov/vote-early-person"
+          "Terrell County Elections and Registration Office",
+          "955 Forrester Dr. SE, Dawson, GA 39842"
         ]
-      ]
+      ],
+      "notes": "Typical early voting hours in Georgia include mandatory Saturdays; for this primary, early voting runs April 27 to May 15, with locations and hours listed for the current week starting May 4. The main office is the primary advance voting site.",
+      "source_url": "https://mvp.sos.ga.gov/s/advanced-voting-location-information?election=a0pcs00000J6e6HAAR&countyName=TERRELL&page=advpollingplace",
+      "source_name": "Georgia My Voter Page, Terrell County Board of Elections"
     },
     "Thomas": {
       "hours_summary": "Typically Mon–Fri 9a–5p · Sat May 9 (3rd Sat before): 9a–4p · Hours vary by county",
